@@ -10,32 +10,13 @@ vectorized from png format or copied from open source svg files found on the net
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
+##Instructions
 The 525icons icon set is optimized for (16 × N)px sizes. You will get crisp results by setting your font-size to 16px, 32px, 48px (= 3 × 16px), etc.
 
 The .ux-Nx classes are optimized for these sizes, like this:
 
-.ux-1-5x {
-	font-size: 24px;
-}
-.ux-2x {
-	font-size: 32px;
-}
+.ux-2x {font-size: 32px;}
 
-.ux-3x {
-	font-size: 48px;
-}
-.ux-4x {
-	font-size: 64px;
-}
-.ux-5x {
-	font-size: 80px;
-}
-.ux-6x {
-	font-size: 96px;
-}
-.ux-7x {
-	font-size: 112px;
-}
 
 ##License
 - The 525icons font is licensed under the SIL OFL 1.1:
