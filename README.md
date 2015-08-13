@@ -11,6 +11,7 @@ vectorized from png format or copied from open source svg files found on the net
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
 The css code is adapted from the Font Awesome css-toolkit by Dave Gandy.
+https://github.com/FortAwesome/Font-Awesome
 
 ##Instructions
 The 525icons icon set is optimized for (16 × N)px sizes. You will get crisp results by setting your font-size to 16px, 32px, 48px (= 3 × 16px), etc.
