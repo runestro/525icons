@@ -6,13 +6,7 @@ A few are directly copied from the different open source icon packs that are ava
 among them the "IcoMoon - Free" pack and the "Font Awesome" icon collection. Some are known brand logos, 
 vectorized from png format or copied from open source svg files found on the net. 
 
-The css code is adapted from the Font Awesome css-toolkit by Dave Gandy. More info at: http://fortawesome.github.io/Font-Awesome/
-
 The font is assembled in the icoMoon app: https://icomoon.io/app.
-
-If you download the font, you will get the web files you see here as well, where you may further investigate the css-codes in use. 
-In the fonts folder, you also will find the font in otf format, which you may install for use in PC or Mac applications.
-
 
 The 525icons icon set is optimized for (16 × N)px sizes. You will get crisp results by setting your font-size to 16px, 32px, 48px (= 3 × 16px), etc.
 
