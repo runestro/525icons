@@ -1,4 +1,5 @@
-# 525icons
+
+# [525icons]
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 Most of the icons are designed, customized and vectorized "by hand" in Adobe Illustrator before the processing into a font.
@@ -35,7 +36,12 @@ The .ux-Nx classes are optimized for these sizes, like this:
 	font-size: 112px;
 }
 
-
+##License
+- The 525icons font is licensed under the SIL OFL 1.1:
+  - http://scripts.sil.org/OFL
+- CSS files are licensed under the MIT License:
+  - http://opensource.org/licenses/mit-license.html
+  
 All brand icons are trademarks of their respective owners.
 The use of these trademarks does not indicate endorsement of the trademark holder by 525icons, nor vice versa.
 
