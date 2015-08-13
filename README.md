@@ -1,5 +1,5 @@
 
-# [525icons]
+#[525icons](http://525icons.com)
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 Most of the icons are designed, customized and vectorized "by hand" in Adobe Illustrator before the processing into a font.
