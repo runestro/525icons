@@ -36,8 +36,8 @@ The license does not apply to copyrighted logos and brand icons.
 
 ##Author
 
-Email: runestro@gmail.com
+- Email: runestro@gmail.com
 
-Twitter: http://twitter.com/@runestro
+- Twitter: http://twitter.com/@runestro
 
-GitHub: https://github.com/runestro
+- GitHub: https://github.com/runestro
