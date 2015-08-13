@@ -27,7 +27,7 @@ p	{
 
 }
 h1, h2, h3, h4, h5, h6 { 
-	font-family: 'league gothic', Impact, 'HelveticaNeue-CondensedBold', Helvetica, sans-serif;
+	font-family: Impact, 'HelveticaNeue-CondensedBold', Helvetica, sans-serif;
 	font-weight: normal;
 	}
 p {
@@ -55,7 +55,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	margin-top: 40px;
 }
 .textbox0:hover .mls, .textbox0:focus .mls {
-	color: #fff;
+	color: #eee;
 }
 .textbox0 i.ux-2x:hover, .textbox0 i.ux-2x:focus {
 	vertical-align: center;
@@ -122,7 +122,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	border-bottom: 1px solid rgba(0, 0, 0, 0.14902);
 	}
 #main h1{
-	font-family: "nexa_rust_bs", Impact, "Arial Black", sans-serif;
+	font-family: Impact, "Arial Black", sans-serif;
 	/* font-family: 'Century Gothic', 'AvenirNext-Regular', Helvetica, sans-serif; */
 	color: rgba(0,0,0,.75);
 	font-size: 100px;
