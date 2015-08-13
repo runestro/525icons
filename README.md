@@ -9,6 +9,7 @@ among them the "IcoMoon - Free" pack and the "Font Awesome" icon collection. Som
 vectorized from png format or copied from open source svg files found on the net. 
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
+
 The css code is adapted from the Font Awesome css-toolkit by Dave Gandy.
 
 ##Instructions
