@@ -35,8 +35,11 @@ The license does not apply to copyrighted logos and brand icons.
 
 
 ##Author
+- Rune Strømsted, Norway
 
 - Email: runestro@gmail.com
+
+- Google+: https://plus.google.com/u/0/101311067909260493911/about
 
 - Twitter: http://twitter.com/@runestro
 
