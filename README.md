@@ -47,8 +47,11 @@ The use of these trademarks does not indicate endorsement of the trademark holde
 
 The license does not apply to copyrighted logos and brand icons.
 
+
 Author
 
 Email: runestro@gmail.com
+
 Twitter: http://twitter.com/@runestro
+
 GitHub: https://github.com/runestro
