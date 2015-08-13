@@ -7,8 +7,6 @@ margin:0;
 padding:0;
 }
 
-*::selection { background:pink; }
-*::-moz-selection { background:pink; }
 
 html, body { 
 	height: 100%;
