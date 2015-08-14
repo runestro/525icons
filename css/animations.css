@@ -1,10 +1,4 @@
-/* 
-* 
-* THIS IS A SMALL BONUS FOR ALL CURIOUS PEOPLE :) 
-* Just add class .animated and .pulse, .rotateIn, .bounce, .swing or .tada to you HTML element with icons. 
-* You may find other great css animations here: http://coveloping.com/tools/css-animation-generator 
-* 
-*/
+
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
