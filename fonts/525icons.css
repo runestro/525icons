@@ -373,10 +373,10 @@ a .blr:hover {
 .ico-sharepoint:before {
 	content: "\e609";
 }
-.ico-visio:before {
+.ico-word:before {
 	content: "\e60a";
 }
-.ico-word:before {
+.ico-outlook-com:before {
 	content: "\e60b";
 }
 .ico-office:before {
@@ -1675,7 +1675,7 @@ a .blr:hover {
 .ico-vlc:before {
 	content: "\e7bb";
 }
-.ico-vimeo2:before {
+.ico-ms-edge:before {
 	content: "\e7bc";
 }
 .ico-chrome:before {
@@ -1798,7 +1798,7 @@ a .blr:hover {
 .ico-android:before {
 	content: "\e7e4";
 }
-.ico-windows:before {
+.ico-vimeo2:before {
 	content: "\e7e5";
 }
 .ico-windows8:before {
