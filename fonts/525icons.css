@@ -1,9 +1,8 @@
 /*!
- *  Css based on Font Awesome - http://fontawesome.io
+ *  525icons by @runestro
  *  Web font made in the IcoMoon App - https://icomoon.io/#docs
  *  License - (Font: SIL OFL 1.1, CSS: MIT License)
  */
-
 
 @font-face {
 	font-family: '525icons';
@@ -404,37 +403,37 @@ a .blr:hover {
 .ico-battery-charging:before {
 	content: "\e613";
 }
-.ico-onedrive:before {
+.ico-plus:before {
 	content: "\e614";
 }
-.ico-circle-upload:before {
+.ico-heroku:before {
 	content: "\e615";
 }
-.ico-circle-download:before {
+.ico-etsy:before {
 	content: "\e616";
 }
-.ico-plus:before {
+.ico-zurb:before {
 	content: "\e617";
 }
-.ico-hootsuite:before {
+.ico-g-analytics:before {
 	content: "\e618";
 }
-.ico-zurb:before {
+.ico-foursquare:before {
 	content: "\e619";
 }
-.ico-g-analytics:before {
+.ico-yelp:before {
 	content: "\e61a";
 }
-.ico-foursquare:before {
+.ico-kik:before {
 	content: "\e61b";
 }
-.ico-yelp:before {
+.ico-color-cc:before {
 	content: "\e61c";
 }
-.ico-kik:before {
+.ico-adobe-air:before {
 	content: "\e61d";
 }
-.ico-color-cc:before {
+.ico-flashplayer:before {
 	content: "\e61e";
 }
 .ico-github:before {
@@ -716,139 +715,139 @@ a .blr:hover {
 .ico-thumbs-down:before {
 	content: "\e67b";
 }
-.ico-hourglass:before {
+.ico-circle-upload:before {
 	content: "\e67c";
 }
-.ico-cursor:before {
+.ico-circle-download:before {
 	content: "\e67d";
 }
-.ico-cursor-hand:before {
+.ico-card-spade:before {
 	content: "\e67e";
 }
-.ico-card-spade:before {
+.ico-card-club:before {
 	content: "\e67f";
 }
-.ico-card-club:before {
+.ico-card-heart:before {
 	content: "\e680";
 }
-.ico-card-heart:before {
+.ico-card-diamond:before {
 	content: "\e681";
 }
-.ico-card-diamond:before {
+.ico-key:before {
 	content: "\e682";
 }
-.ico-key:before {
+.ico-musicalnote:before {
 	content: "\e683";
 }
-.ico-musicalnote:before {
+.ico-yin-yang:before {
 	content: "\e684";
 }
-.ico-yin-yang:before {
+.ico-book:before {
 	content: "\e685";
 }
-.ico-book:before {
+.ico-radioactive:before {
 	content: "\e686";
 }
-.ico-radioactive:before {
+.ico-wp-arrow-o-left:before {
 	content: "\e687";
 }
-.ico-wp-arrow-o-left:before {
+.ico-wp-arrow-o-right:before {
 	content: "\e688";
 }
-.ico-wp-arrow-o-right:before {
+.ico-wp-arrow-left:before {
 	content: "\e689";
 }
-.ico-wp-arrow-left:before {
+.ico-wp-arrow-right:before {
 	content: "\e68a";
 }
-.ico-wp-arrow-right:before {
+.ico-after-effects:before {
 	content: "\e68b";
 }
-.ico-after-effects:before {
+.ico-illustrator:before {
 	content: "\e68c";
 }
-.ico-illustrator:before {
+.ico-audition:before {
 	content: "\e68d";
 }
-.ico-audition:before {
+.ico-bridge:before {
 	content: "\e68e";
 }
-.ico-bridge:before {
+.ico-dreamweaver:before {
 	content: "\e68f";
 }
-.ico-dreamweaver:before {
+.ico-fireworks:before {
 	content: "\e690";
 }
-.ico-fireworks:before {
+.ico-lightroom:before {
 	content: "\e691";
 }
-.ico-lightroom:before {
+.ico-premiere:before {
 	content: "\e692";
 }
-.ico-premiere:before {
+.ico-photoshop:before {
 	content: "\e693";
 }
-.ico-photoshop:before {
+.ico-animate:before {
 	content: "\e694";
 }
-.ico-animate:before {
+.ico-quotes1:before {
 	content: "\e695";
 }
-.ico-quotes1:before {
+.ico-quotes2:before {
 	content: "\e696";
 }
-.ico-quotes2:before {
+.ico-eye:before {
 	content: "\e697";
 }
-.ico-eye:before {
+.ico-connection-wifi:before {
 	content: "\e698";
 }
-.ico-connection-wifi:before {
+.ico-wifi:before {
 	content: "\e699";
 }
-.ico-wifi:before {
+.ico-wireless:before {
 	content: "\e69a";
 }
-.ico-wireless:before {
+.ico-usb:before {
 	content: "\e69b";
 }
-.ico-usb:before {
+.ico-usb-drive:before {
 	content: "\e69c";
 }
-.ico-usb-drive:before {
+.ico-bluetooth:before {
 	content: "\e69d";
 }
-.ico-bluetooth:before {
+.ico-calendar-open:before {
 	content: "\e69e";
 }
-.ico-calendar-open:before {
+.ico-calculator:before {
 	content: "\e69f";
 }
-.ico-calculator:before {
+.ico-newspaper:before {
 	content: "\e6a0";
 }
-.ico-newspaper:before {
+.ico-bing:before {
 	content: "\e6a1";
 }
-.ico-bing:before {
+.ico-marketplace:before {
 	content: "\e6a2";
 }
-.ico-marketplace:before {
+.ico-xbox:before {
 	content: "\e6a3";
 }
-.ico-xbox:before {
+.ico-playstation:before {
 	content: "\e6a4";
 }
-.ico-playstation:before {
+.ico-gameboy:before {
 	content: "\e6a5";
 }
-.ico-gameboy:before {
+.ico-hootsuite:before {
 	content: "\e6a6";
 }
-.ico-flashplayer:before {
+.ico-klout:before {
 	content: "\e6a7";
 }
-.ico-adobe-air:before {
+.ico-meetup:before {
 	content: "\e6a8";
 }
 .ico-copyright:before {
@@ -959,61 +958,61 @@ a .blr:hover {
 .ico-family:before {
 	content: "\e6cc";
 }
-.ico-theater-masks:before {
+.ico-snail:before {
 	content: "\e6cd";
 }
-.ico-snail:before {
+.ico-panda:before {
 	content: "\e6ce";
 }
-.ico-panda:before {
+.ico-turtle:before {
 	content: "\e6cf";
 }
-.ico-turtle:before {
+.ico-rabbit:before {
 	content: "\e6d0";
 }
-.ico-rabbit:before {
+.ico-cat:before {
 	content: "\e6d1";
 }
-.ico-cat:before {
+.ico-dog:before {
 	content: "\e6d2";
 }
-.ico-dog:before {
+.ico-dolphin:before {
 	content: "\e6d3";
 }
-.ico-dolphin:before {
+.ico-coffee:before {
 	content: "\e6d4";
 }
-.ico-coffee:before {
+.ico-plane:before {
 	content: "\e6d5";
 }
-.ico-plane:before {
+.ico-tvg:before {
 	content: "\e6d6";
 }
-.ico-tvg:before {
+.ico-snapchat:before {
 	content: "\e6d7";
 }
-.ico-snapchat:before {
+.ico-icloud:before {
 	content: "\e6d8";
 }
-.ico-icloud:before {
+.ico-vine:before {
 	content: "\e6d9";
 }
-.ico-vine:before {
+.ico-instagram2:before {
 	content: "\e6da";
 }
-.ico-instagram2:before {
+.ico-coderwall:before {
 	content: "\e6db";
 }
-.ico-wine-bottle:before {
+.ico-surveillance-cam:before {
 	content: "\e6dc";
 }
-.ico-surveillance-cam:before {
+.ico-mic:before {
 	content: "\e6dd";
 }
-.ico-mic:before {
+.ico-headphones:before {
 	content: "\e6de";
 }
-.ico-headphones:before {
+.ico-onedrive:before {
 	content: "\e6df";
 }
 .ico-creativecloud:before {
@@ -1157,7 +1156,7 @@ a .blr:hover {
 .ico-fa-logo:before {
 	content: "\e70e";
 }
-.ico-home-o:before {
+.ico-registered:before {
 	content: "\e70f";
 }
 .ico-home:before {
