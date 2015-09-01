@@ -943,7 +943,7 @@ a .blr:hover {
 .ico-lock2:before {
 	content: "\e6c7";
 }
-.ico-sparkling-heart:before {
+.ico-char:before {
 	content: "\e6c8";
 }
 .ico-stratocaster:before {
@@ -985,7 +985,7 @@ a .blr:hover {
 .ico-plane:before {
 	content: "\e6d5";
 }
-.ico-tvg:before {
+.ico-recycle:before {
 	content: "\e6d6";
 }
 .ico-snapchat:before {
@@ -1696,13 +1696,13 @@ a .blr:hover {
 .ico-jquery:before {
 	content: "\e7c2";
 }
-.ico-frame:before {
+.ico-user:before {
 	content: "\e7c3";
 }
-.ico-user:before {
+.ico-contacts:before {
 	content: "\e7c4";
 }
-.ico-contacts:before {
+.ico-user-plus:before {
 	content: "\e7c5";
 }
 .ico-play:before {
@@ -1723,10 +1723,10 @@ a .blr:hover {
 .ico-eject:before {
 	content: "\e7cb";
 }
-.ico-camera:before {
+.ico-square-phone:before {
 	content: "\e7cc";
 }
-.ico-camera-retro:before {
+.ico-camera:before {
 	content: "\e7cd";
 }
 .ico-image-gallery:before {
@@ -1768,97 +1768,97 @@ a .blr:hover {
 .ico-google-drive:before {
 	content: "\e7da";
 }
-.ico-square-phone:before {
+.ico-hangouts:before {
 	content: "\e7db";
 }
-.ico-hangouts:before {
+.ico-evernote2:before {
 	content: "\e7dc";
 }
-.ico-evernote2:before {
+.ico-pocket2:before {
 	content: "\e7dd";
 }
-.ico-pocket2:before {
+.ico-youtube2:before {
 	content: "\e7de";
 }
-.ico-youtube2:before {
+.ico-myspace:before {
 	content: "\e7df";
 }
-.ico-myspace:before {
+.ico-soundcloud:before {
 	content: "\e7e0";
 }
-.ico-soundcloud:before {
+.ico-flickr2:before {
 	content: "\e7e1";
 }
-.ico-flickr2:before {
+.ico-linux:before {
 	content: "\e7e2";
 }
-.ico-linux:before {
+.ico-android:before {
 	content: "\e7e3";
 }
-.ico-android:before {
+.ico-vimeo2:before {
 	content: "\e7e4";
 }
-.ico-vimeo2:before {
+.ico-windows8:before {
 	content: "\e7e5";
 }
-.ico-windows8:before {
+.ico-apple:before {
 	content: "\e7e6";
 }
-.ico-apple:before {
+.ico-finder:before {
 	content: "\e7e7";
 }
-.ico-finder:before {
+.ico-app-store:before {
 	content: "\e7e8";
 }
-.ico-app-store:before {
+.ico-bootstrap:before {
 	content: "\e7e9";
 }
-.ico-bootstrap:before {
+.ico-square:before {
 	content: "\e7ea";
 }
-.ico-square:before {
+.ico-square-o:before {
 	content: "\e7eb";
 }
-.ico-square-o:before {
+.ico-circle:before {
 	content: "\e7ec";
 }
-.ico-circle:before {
+.ico-circle-o:before {
 	content: "\e7ed";
 }
-.ico-circle-o:before {
+.ico-desktop:before {
 	content: "\e7ee";
 }
-.ico-desktop:before {
+.ico-laptop:before {
 	content: "\e7ef";
 }
-.ico-laptop:before {
+.ico-tablet:before {
 	content: "\e7f0";
 }
-.ico-tablet:before {
+.ico-smartphone:before {
 	content: "\e7f1";
 }
-.ico-smartphone:before {
+.ico-surface:before {
 	content: "\e7f2";
 }
-.ico-surface:before {
+.ico-warning-sign:before {
 	content: "\e7f3";
 }
-.ico-warning-sign:before {
+.ico-cutlery:before {
 	content: "\e7f4";
 }
-.ico-cutlery:before {
+.ico-share-alt:before {
 	content: "\e7f5";
 }
-.ico-share-alt:before {
+.ico-500px2:before {
 	content: "\e7f6";
 }
-.ico-500px2:before {
+.ico-tripadvisor:before {
 	content: "\e7f7";
 }
-.ico-tripadvisor:before {
+.ico-tvg:before {
 	content: "\e7f8";
 }
-.ico-recycle:before {
+.ico-cab:before {
 	content: "\e7f9";
 }
 .ico-bus:before {
@@ -1876,28 +1876,28 @@ a .blr:hover {
 .ico-polygon:before {
 	content: "\e7fe";
 }
-.ico-notepad:before {
+.ico-frame:before {
 	content: "\e7ff";
 }
-.ico-filemanager:before {
+.ico-notepad:before {
 	content: "\e800";
 }
-.ico-medkit:before {
+.ico-filemanager:before {
 	content: "\e801";
 }
-.ico-disc:before {
+.ico-medkit:before {
 	content: "\e802";
 }
-.ico-alarm:before {
+.ico-disc:before {
 	content: "\e803";
 }
-.ico-upload:before {
+.ico-alarm:before {
 	content: "\e804";
 }
-.ico-download:before {
+.ico-upload:before {
 	content: "\e805";
 }
-.ico-user-plus:before {
+.ico-download:before {
 	content: "\e806";
 }
 .ico-sitemap:before {
