@@ -1405,52 +1405,52 @@ a .blr:hover {
 .ico-html5:before {
 	content: "\e761";
 }
-.ico-int-wheelchair:before {
+.ico-exclamation:before {
 	content: "\e762";
 }
-.ico-int-water:before {
+.ico-exclamation-circle:before {
 	content: "\e763";
 }
-.ico-int-train:before {
+.ico-int-wheelchair:before {
 	content: "\e764";
 }
-.ico-int-swim:before {
+.ico-int-water:before {
 	content: "\e765";
 }
-.ico-int-recycle:before {
+.ico-int-train:before {
 	content: "\e766";
 }
-.ico-int-alpine:before {
+.ico-int-swim:before {
 	content: "\e767";
 }
-.ico-int-guard:before {
+.ico-int-recycle:before {
 	content: "\e768";
 }
-.ico-int-tram:before {
+.ico-int-alpine:before {
 	content: "\e769";
 }
-.ico-int-bicycle:before {
+.ico-int-guard:before {
 	content: "\e76a";
 }
-.ico-int-bed:before {
+.ico-int-tram:before {
 	content: "\e76b";
 }
-.ico-int-bus:before {
+.ico-int-bicycle:before {
 	content: "\e76c";
 }
-.ico-int-plane:before {
+.ico-int-bed:before {
 	content: "\e76d";
 }
-.ico-int-phone:before {
+.ico-int-bus:before {
 	content: "\e76e";
 }
-.ico-int-p:before {
+.ico-int-plane:before {
 	content: "\e76f";
 }
-.ico-int-lighthouse:before {
+.ico-int-phone:before {
 	content: "\e770";
 }
-.ico-int-house:before {
+.ico-int-p:before {
 	content: "\e771";
 }
 .ico-int-fuel:before {
