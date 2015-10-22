@@ -7,7 +7,6 @@
 
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
-
 @font-face {
 	font-family: '525icons';
 	src:url('525icons.eot');
