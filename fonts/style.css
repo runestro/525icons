@@ -1307,25 +1307,25 @@
 .ico-eject:before {
 	content: "\e7b3";
 }
-.ico-comment2:before {
+.ico-camera-retro:before {
 	content: "\e7b4";
 }
-.ico-square-phone:before {
+.ico-camera:before {
 	content: "\e7b5";
 }
-.ico-camera-retro:before {
+.ico-image-gallery:before {
 	content: "\e7b6";
 }
-.ico-camera:before {
+.ico-image-gallery2:before {
 	content: "\e7b7";
 }
-.ico-image-gallery:before {
+.ico-image:before {
 	content: "\e7b8";
 }
-.ico-image:before {
+.ico-image-portrait:before {
 	content: "\e7b9";
 }
-.ico-image-portrait:before {
+.ico-square-phone:before {
 	content: "\e7ba";
 }
 .ico-msn:before {
@@ -1466,7 +1466,7 @@
 .ico-tram:before {
 	content: "\e7e8";
 }
-.ico-polygon:before {
+.ico-comment2:before {
 	content: "\e7e9";
 }
 .ico-frame:before {
