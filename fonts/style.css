@@ -632,10 +632,10 @@
 .ico-stop-sign:before {
 	content: "\e6d2";
 }
-.ico-pedestrian-zone:before {
+.ico-crossings:before {
 	content: "\e6d3";
 }
-.ico-crossings:before {
+.ico-pedestrian-zone:before {
 	content: "\e6d4";
 }
 .ico-movie-clapper:before {
@@ -770,37 +770,37 @@
 .ico-cc-amex:before {
 	content: "\e700";
 }
-.ico-cc-stripe:before {
+.ico-maxcdn:before {
 	content: "\e701";
 }
-.ico-cc-discover:before {
+.ico-start-chat:before {
 	content: "\e702";
 }
-.ico-start-chat:before {
+.ico-envelope-o:before {
 	content: "\e703";
 }
-.ico-envelope-o:before {
+.ico-envelope:before {
 	content: "\e704";
 }
-.ico-envelope:before {
+.ico-gmail:before {
 	content: "\e705";
 }
-.ico-gmail:before {
+.ico-phone:before {
 	content: "\e706";
 }
-.ico-phone:before {
+.ico-radio:before {
 	content: "\e707";
 }
-.ico-radio:before {
+.ico-keyboard2:before {
 	content: "\e708";
 }
-.ico-keyboard2:before {
+.ico-shoppingbag:before {
 	content: "\e709";
 }
-.ico-shoppingbag:before {
+.ico-basket:before {
 	content: "\e70a";
 }
-.ico-basket:before {
+.ico-basket2:before {
 	content: "\e70b";
 }
 .ico-stacked:before {
