@@ -1,3 +1,4 @@
+
 .ico-access:before {
 	content: "\e600";
 }
@@ -1510,10 +1511,10 @@
 .ico-logout:before {
 	content: "\e7f7";
 }
-.ico-forumbee:before {
+.ico-green-dot:before {
 	content: "\e7f8";
 }
-.ico-box:before {
+.ico-path:before {
 	content: "\e7f9";
 }
 .ico-pagelines:before {
@@ -1552,10 +1553,10 @@
 .ico-reload:before {
 	content: "\e805";
 }
-.ico-language:before {
+.ico-ce-mark:before {
 	content: "\e806";
 }
-.ico-graduation-cap:before {
+.ico-recycle-o:before {
 	content: "\e807";
 }
 .ico-compass:before {
