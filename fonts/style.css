@@ -365,7 +365,7 @@
 .ico-quotes1:before {
 	content: "\e679";
 }
-.ico-quotes2:before {
+.ico-ce-mark:before {
 	content: "\e67a";
 }
 .ico-eye:before {
@@ -986,7 +986,7 @@
 .ico-int-swim:before {
 	content: "\e748";
 }
-.ico-int-recycle:before {
+.ico-int-baggage-locker:before {
 	content: "\e749";
 }
 .ico-int-alpine:before {
@@ -998,7 +998,7 @@
 .ico-int-tram:before {
 	content: "\e74c";
 }
-.ico-int-bicycle:before {
+.ico-int-litter:before {
 	content: "\e74d";
 }
 .ico-int-bed:before {
@@ -1553,7 +1553,7 @@
 .ico-reload:before {
 	content: "\e805";
 }
-.ico-ce-mark:before {
+.ico-vivaldi:before {
 	content: "\e806";
 }
 .ico-recycle-o:before {
