@@ -32,16 +32,16 @@
 .ico-word:before {
 	content: "\e60a";
 }
-.ico-outlook-com:before {
+.ico-office:before {
 	content: "\e60b";
 }
-.ico-office:before {
+.ico-office365:before {
 	content: "\e60c";
 }
-.ico-office365:before {
+.ico-microsoft:before {
 	content: "\e60d";
 }
-.ico-microsoft:before {
+.ico-stopwatch:before {
 	content: "\e60e";
 }
 .ico-battery-0:before {
