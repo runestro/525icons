@@ -422,37 +422,37 @@
 .ico-meetup:before {
 	content: "\e68c";
 }
-.ico-copyright:before {
+.ico-smiling-eyes:before {
 	content: "\e68d";
 }
-.ico-inv-smile:before {
+.ico-laughing-smiling-eyes:before {
 	content: "\e68e";
 }
-.ico-smiling-eyes:before {
+.ico-winking-face:before {
 	content: "\e68f";
 }
-.ico-laughing-smiling-eyes:before {
+.ico-smiling-heart-eyes:before {
 	content: "\e690";
 }
-.ico-winking-face:before {
+.ico-smirking-face:before {
 	content: "\e691";
 }
-.ico-smiling-heart-eyes:before {
+.ico-disappointed-face:before {
 	content: "\e692";
 }
-.ico-smirking-face:before {
+.ico-unamused-face:before {
 	content: "\e693";
 }
-.ico-disappointed-face:before {
+.ico-persevering-face:before {
 	content: "\e694";
 }
-.ico-unamused-face:before {
+.ico-unhappy-face:before {
 	content: "\e695";
 }
-.ico-persevering-face:before {
+.ico-inv-smile:before {
 	content: "\e696";
 }
-.ico-unhappy-face:before {
+.ico-copyright:before {
 	content: "\e697";
 }
 .ico-aries:before {
@@ -1253,10 +1253,10 @@
 .ico-codepen:before {
 	content: "\e7a1";
 }
-.ico-jquery:before {
+.ico-vlc:before {
 	content: "\e7a2";
 }
-.ico-vlc:before {
+.ico-jquery:before {
 	content: "\e7a3";
 }
 .ico-ms-edge:before {
@@ -1445,58 +1445,58 @@
 .ico-500px2:before {
 	content: "\e7e1";
 }
-.ico-tripadvisor:before {
+.ico-tvg:before {
 	content: "\e7e2";
 }
-.ico-tvg:before {
+.ico-cab:before {
 	content: "\e7e3";
 }
-.ico-cab:before {
+.ico-bus:before {
 	content: "\e7e4";
 }
-.ico-bus:before {
+.ico-train:before {
 	content: "\e7e5";
 }
-.ico-train:before {
+.ico-subway:before {
 	content: "\e7e6";
 }
-.ico-subway:before {
+.ico-tram:before {
 	content: "\e7e7";
 }
-.ico-tram:before {
+.ico-comment2:before {
 	content: "\e7e8";
 }
-.ico-comment2:before {
+.ico-frame:before {
 	content: "\e7e9";
 }
-.ico-frame:before {
+.ico-notepad:before {
 	content: "\e7ea";
 }
-.ico-notepad:before {
+.ico-address-book:before {
 	content: "\e7eb";
 }
-.ico-address-book:before {
+.ico-filemanager:before {
 	content: "\e7ec";
 }
-.ico-filemanager:before {
+.ico-medkit:before {
 	content: "\e7ed";
 }
-.ico-medkit:before {
+.ico-disc:before {
 	content: "\e7ee";
 }
-.ico-disc:before {
+.ico-sitemap:before {
 	content: "\e7ef";
 }
-.ico-sitemap:before {
+.ico-zoom-in:before {
 	content: "\e7f0";
 }
-.ico-zoom-in:before {
+.ico-zoom-out:before {
 	content: "\e7f1";
 }
-.ico-zoom-out:before {
+.ico-logout:before {
 	content: "\e7f2";
 }
-.ico-logout:before {
+.ico-tripadvisor:before {
 	content: "\e7f3";
 }
 .ico-green-dot:before {
@@ -1517,16 +1517,16 @@
 .ico-digg2:before {
 	content: "\e7f9";
 }
-.ico-scribd:before {
+.ico-modx:before {
 	content: "\e7fa";
 }
-.ico-modx:before {
+.ico-vivaldi:before {
 	content: "\e7fb";
 }
-.ico-vivaldi:before {
+.ico-qwant:before {
 	content: "\e7fc";
 }
-.ico-qwant:before {
+.ico-recycle-o:before {
 	content: "\e7fd";
 }
 .ico-upload:before {
@@ -1541,28 +1541,28 @@
 .ico-sign-out:before {
 	content: "\e801";
 }
-.ico-circle-left:before {
+.ico-plus:before {
 	content: "\e802";
 }
-.ico-circle-right:before {
+.ico-circle-left:before {
 	content: "\e803";
 }
-.ico-circle-up:before {
+.ico-circle-right:before {
 	content: "\e804";
 }
-.ico-circle-down:before {
+.ico-circle-up:before {
 	content: "\e805";
 }
-.ico-plus:before {
+.ico-circle-down:before {
 	content: "\e806";
 }
 .ico-alarm:before {
 	content: "\e807";
 }
-.ico-recycle-o:before {
+.ico-compass:before {
 	content: "\e808";
 }
-.ico-compass:before {
+.ico-map-signs:before {
 	content: "\e809";
 }
 .ico-map:before {
