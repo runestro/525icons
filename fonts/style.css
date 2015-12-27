@@ -929,16 +929,16 @@
 .ico-sharing:before {
     content: "\e735";
 }
-.ico-trash:before {
+.ico-remove:before {
     content: "\e736";
 }
-.ico-remove:before {
+.ico-paintbrush:before {
     content: "\e737";
 }
-.ico-paintbrush:before {
+.ico-pencil:before {
     content: "\e738";
 }
-.ico-pencil:before {
+.ico-pencil2:before {
     content: "\e739";
 }
 .ico-marker:before {
@@ -1427,10 +1427,10 @@
 .ico-surface:before {
     content: "\e7db";
 }
-.ico-surface2:before {
+.ico-responsive:before {
     content: "\e7dc";
 }
-.ico-responsive:before {
+.ico-hazard:before {
     content: "\e7dd";
 }
 .ico-warning-sign:before {
