@@ -920,22 +920,22 @@
 .ico-chevron:before {
     content: "\e732";
 }
-.ico-arrow:before {
+.ico-chevron-circle:before {
     content: "\e733";
 }
-.ico-caret:before {
+.ico-arrow:before {
     content: "\e734";
 }
-.ico-angle:before {
+.ico-caret:before {
     content: "\e735";
 }
-.ico-angle-double:before {
+.ico-angle:before {
     content: "\e736";
 }
-.ico-angle-slim:before {
+.ico-angle-double:before {
     content: "\e737";
 }
-.ico-arrow-slim:before {
+.ico-angle-thinline:before {
     content: "\e738";
 }
 .ico-favorites:before {
