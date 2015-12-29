@@ -138,7 +138,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	}
 #wrap-container {
 	text-align: center;
-	background-image:url(../images/bg-grid.png);
+	/* background-image:url(../images/bg-grid.png); */
 }
 
 
