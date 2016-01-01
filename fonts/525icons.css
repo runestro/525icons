@@ -7,8 +7,10 @@
 
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
+
 @font-face {
-	font-family: '525icons';
+	/* use !important to prevent issues with browser extensions that change fonts */
+    font-family: '525icons' !important;
 	src:url('525icons.eot');
 	src:url('525icons.eot?#iefix') format('embedded-opentype'),
 		url('525icons.woff2') format('woff2'),
@@ -119,6 +121,7 @@ i, .ux {
   -webkit-animation: ux-spin 2s infinite linear;
   animation: ux-spin 2s infinite linear;
 }
+
 .ux-pulse {
   -webkit-animation: ux-spin 1s infinite steps(8);
   animation: ux-spin 1s infinite steps(8);
@@ -143,6 +146,7 @@ i, .ux {
     transform: rotate(359deg);
   }
 }
+
 .ux-rotate-45 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 	-webkit-transform: rotate(45deg);
@@ -341,5 +345,9 @@ a .blr:hover {
 }
 .radius36  {
 	border-radius: 36px;
+}
+
+.ux-circle  {
+	border-radius: 50%;
 }
 
