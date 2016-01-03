@@ -55,7 +55,10 @@ body {
                     </li>					
                     <li>
                         <a class="page-scroll" href="#icons">All Icons</a>
-                    </li>				
+                    </li>	
+					<li>
+                        <a class="page-scroll" href="#how-to">How to</a>
+                    </li>					
 					<li>
                         <a class="page-scroll" href="#site-footer">About</a>
                     </li>
@@ -155,7 +158,7 @@ brands does not indicate endorsement of the trademark holder by 525icons, nor vi
 
 					<div class="infobox"><a href="#" class="ux ux-stack ux-2x">
 					  <i class="ico-circle-o ux-stack-2x red bg-white radius36"></i>
-					  <i class="sans-36 ux-stack-1x black">50</i>
+					  <span class="sans-36 ux-stack-1x black">50</span>
 					</a><p>text on ico-circle-o</p></div>	
 
 					<div class="infobox"><a href="#" class="ux ux-stack ux-2x">
@@ -1479,8 +1482,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
 				<div class="textbox0"><i class="ux-2x ico-pencil2"></i>
 				<span class="mls"> ico-pencil2</span></div>
 
-				<div class="textbox0"><i class="ux-2x ico-marker"></i>
-				<span class="mls"> ico-marker</span></div>
+				<div class="textbox0"><i class="ux-2x ico-eyedropper"></i>
+				<span class="mls"> ico-eyedropper</span></div>
 
 				<div class="textbox0"><i class="ux-2x ico-edit"></i>
 				<span class="mls"> ico-edit</span></div>
@@ -2083,14 +2086,73 @@ sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
 				<span class="mls"> ico-logout</span></div>		
 
             </div>
+		</div>	
+<!-- modal popup image -->
+<span class="talign-center">
+ <h3>View image sprite 48px sizes:</h3>	
+<button type="button" data-toggle="modal" data-target="#imgModal2" class="imgbutton"><span aria-hidden="true"><i class="ico-image ux-3x"></i></span></button>
+</span>	
         </div>
     </div>
 </section>	
-<!-- modal popup image -->
- <span class="talign-center">
- <h2>View image sprite 48px sizes:</h2>	
-<button type="button" data-toggle="modal" data-target="#imgModal2" class="imgbutton"><span aria-hidden="true"><i class="ico-image ux-3x"></i></span></button>
-</span>
+
+<section id="how-to">
+<div class="container full-width">
+    <div class="row"> 	
+<div class="max-650">
+<br><br>	
+<h2>How to use the font in your site:</h2>
+<div class="talign-left">
+<p>
+If you are familiar with the use of the Font Awesome web font, the 525icons web font css code has some differences.
+
+The icons are placed by adding the 'ico-' class prefix to the icons name (Font Awesome uses the 'fa-' prefix).
+Transitions, sizes and effects use the 'ux-' prefix (While the Font Awesome uses the 'fa-' prefix all over). 
+
+Make sure the entire fonts directory from the zip-file '525icons.zip' is copied into your project.
+You will need the files:
+<ul class="no-bullet indent120">
+<li>fonts/525icons.css</li>
+<li>fonts/525icons.eot</li>
+<li>fonts/525icons.svg</li>
+<li>fonts/525icons.ttf</li>
+<li>fonts/525icons.woff</li>
+<li>fonts/525icons.woff2</li>
+</ul>
+<i class="ico-info-circle2 a-color"></i> You do not need the file <u>525icons.otf</u>, unless you want to install it on your OS. <br>
+The css file must be in the same directory as the fonts. If not, you have the make changes in the code.<br>
+
+In the <code>&lt;head&gt;</code> of your html, reference the location to your 525icons.css and fonts. <br>
+
+<code>&lt;link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css"&gt;</code><br>
+<br>
+<strong>How to place the icons in your html-file:</strong><br>
+Like Font Awesome, 525icons is designed to be used with the inline element: <strong>&lt;i&gt;</strong> <br>
+You can place the icons using the CSS Prefix 'ico-' and the icon's name,<br> 
+like in this example:<br>
+
+<code>&lt;i class="ico-yin-yang"&gt;&lt;/i&gt;</code> <i class="ico-yin-yang a-color"></i><br>
+
+And you may add additional classes, like here:<br>
+
+<code>&lt;i class="ico-yin-yang ux-lg" style="color: #000;"&gt;&lt;/i&gt;</code> <i class="ico-yin-yang ux-lg black"></i> <br>
+
+You may further all the different css-codes in use, inside this file and <a href="fonts/525icons.css" title="525icons.css" target="_blank">525icons.css</a>.
+<br>
+<br>
+<i class="ico-info-circle2 a-color"></i> To use the 525icons OTF font in desktop applications, you have to install the font on your system. 
+When installing the font or viewing it, the operating system may not show all the glyphs in the font. In most cases only the basic Latin characters are shown.<br>
+
+Here you can see a screenshot of the font in use in Adobe Illustrator:
+<button type="button" data-toggle="modal" data-target="#imgModal" class="imgbutton"><span aria-hidden="true"><i class="ico-image ux-lg a-color"></i></span></button>
+
+</p>	
+</div>
+			</div>
+        </div>
+    </div>
+</section>	
+
 <!-- modal popup image -->
 <div id="imgModal2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
   <div class="modal-dialog">

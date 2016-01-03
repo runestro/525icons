@@ -1,6 +1,7 @@
 @media all and (min-device-width : 1025px)  {
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,400italic);
 }
+
 
 *, html, body{
 margin:0;
@@ -26,9 +27,18 @@ p	{
 	color: #222;
 
 }
+.sans-p {
+	font-family: 'nimbus-sans-extended', sans-serif;
+	font-size: 112px;
+	letter-spacing: normal;
+	line-height: inherit;
+	font-weight: 400;
+	font-style: normal;
+	margin-left: 5px;
+}
 h1, h2, h3, h4, h5, h6 { 
-	font-family: 'league gothic', Impact, 'HelveticaNeue-CondensedBold', Helvetica, sans-serif;
-	font-weight: normal;
+	font-family: 'league gothic', 'HelveticaNeue-Bold', Helvetica, sans-serif;
+	/*font-weight: normal;*/
 	}
 p {
 	margin-left: 3px;
@@ -122,7 +132,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	border-bottom: 1px solid rgba(0, 0, 0, 0.14902);
 	}
 #main h1{
-	font-family: "nexa_rust_bs", Impact, "Arial Black", sans-serif;
+	font-family: 'nexa_rust_bs', Impact, "Arial Black", sans-serif;
 	/* font-family: 'Century Gothic', 'AvenirNext-Regular', Helvetica, sans-serif; */
 	color: rgba(0,0,0,.75);
 	font-size: 100px;
@@ -243,6 +253,7 @@ header {
 	letter-spacing: normal;
 	line-height: inherit;
 }
+
 .sans-24 {
 	font-family: Impact, 'HelveticaNeue-CondensedBold', Helvetica , sans-serif;
 	font-size: 24px;
@@ -286,7 +297,6 @@ figure
 
 figcaption
  {
-  font-size: 13px;
   margin-top: 5px;
 }
 /* iPad portrait and landscape*/
@@ -469,11 +479,11 @@ transition: all 0.31s ease;
 	opacity: 1;
 	color: rgba(255,255,255, .85);
 	top: 260px;
-	width: 24px;
-	height: 24px;
+	width: 36px;
+	height: 36px;
 	border-width: 0;
-	font-size: 24px;
-	line-height: 24px;
+	font-size: 36px;
+	line-height: 36px;
 /* 	left: 55px; */
 }
 .carousel-control:hover,
@@ -531,6 +541,15 @@ transition: all 0.31s ease;
 .talign-center {
 	text-align: center;
 }
+
+.no-bullet {
+	list-style: none;
+}
+
+.indent120{
+	margin-left: 120px;
+}
+
 .rs-toggle {
 	width: 200px;
 	padding-left: 40px;
@@ -660,6 +679,10 @@ border-bottom-right-radius: 6px;
 .uline {
 	text-decoration: underline;
 }
+.inline {
+	display: inline-block;
+}
+
 @media (min-width: 768px) {
   .modal-dialog {
     width: 920px;
