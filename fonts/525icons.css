@@ -356,7 +356,7 @@ a .blr:hover {
 
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
-  
+
 .ico-access:before {
     content: "\e600";
 }
@@ -693,7 +693,7 @@ a .blr:hover {
 .ico-london-tube:before {
     content: "\e66f";
 }
-.ico-projector:before {
+.ico-listen:before {
     content: "\e670";
 }
 .ico-map-marker:before {
