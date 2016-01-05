@@ -56,7 +56,7 @@ The 525icons icon set is optimized for (16 × N)px sizes. You will get crisp res
 
 The .ux-Nx classes are optimized for these sizes, like this:
 
-.ux-2x {font-size: 32px;}
+<code>.ux-2x {font-size: 32px;}</code>
 
 
 ##License
