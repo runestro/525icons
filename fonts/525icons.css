@@ -151,7 +151,7 @@ i {
 }
 
 .ux-rotate-45 {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -162,11 +162,23 @@ i {
 	-ms-transform: rotate(90deg);
 	transform: rotate(90deg);
 }
+.ux-rotate-135 {
+
+	-webkit-transform: rotate(135deg);
+	-ms-transform: rotate(135deg);
+	transform: rotate(135deg);
+}
 .ux-rotate-180 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
 	-webkit-transform: rotate(180deg);
 	-ms-transform: rotate(180deg);
 	transform: rotate(180deg);
+}
+.ux-rotate-225 {
+
+	-webkit-transform: rotate(225deg);
+	-ms-transform: rotate(225deg);
+	transform: rotate(225deg);
 }
 .ux-rotate-270 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
@@ -174,6 +186,13 @@ i {
 	-ms-transform: rotate(270deg);
 	transform: rotate(270deg);
 }
+.ux-rotate-315 {
+
+	-webkit-transform: rotate(315deg);
+	-ms-transform: rotate(315deg);
+	transform: rotate(315deg);
+}
+
 .ux-flip-horizontal {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
 	-webkit-transform: scale(-1, 1);
@@ -188,8 +207,11 @@ i {
 }
 :root .ux-rotate-45,
 :root .ux-rotate-90,
+:root .ux-rotate-135,
 :root .ux-rotate-180,
+:root .ux-rotate-225,
 :root .ux-rotate-270,
+:root .ux-rotate-315,
 :root .ux-flip-horizontal,
 :root .ux-flip-vertical {
   filter: none;
@@ -360,34 +382,34 @@ a .blr:hover {
 .ico-access:before {
     content: "\e600";
 }
-.ico-excel:before {
+.ico-exchange:before {
     content: "\e601";
 }
-.ico-infopath:before {
+.ico-lync:before {
     content: "\e602";
 }
-.ico-lync:before {
+.ico-onenote:before {
     content: "\e603";
 }
-.ico-onenote:before {
+.ico-outlook:before {
     content: "\e604";
 }
-.ico-outlook:before {
+.ico-powerpoint:before {
     content: "\e605";
 }
-.ico-powerpoint:before {
+.ico-project:before {
     content: "\e606";
 }
-.ico-project:before {
+.ico-publisher:before {
     content: "\e607";
 }
-.ico-publisher:before {
+.ico-sharepoint:before {
     content: "\e608";
 }
-.ico-sharepoint:before {
+.ico-word:before {
     content: "\e609";
 }
-.ico-word:before {
+.ico-excel:before {
     content: "\e60a";
 }
 .ico-office:before {
@@ -399,7 +421,7 @@ a .blr:hover {
 .ico-microsoft:before {
     content: "\e60d";
 }
-.ico-stopwatch:before {
+.ico-visual-studio:before {
     content: "\e60e";
 }
 .ico-file-docx:before {
@@ -711,13 +733,13 @@ a .blr:hover {
 .ico-files:before {
     content: "\e675";
 }
-.ico-suitcase:before {
+.ico-thumbs-up:before {
     content: "\e676";
 }
-.ico-thumbs-up:before {
+.ico-thumbs-down:before {
     content: "\e677";
 }
-.ico-thumbs-down:before {
+.ico-stopwatch:before {
     content: "\e678";
 }
 .ico-circle-upload:before {
@@ -1137,7 +1159,7 @@ a .blr:hover {
 .ico-library:before {
     content: "\e703";
 }
-.ico-briefcase:before {
+.ico-suitcase:before {
     content: "\e704";
 }
 .ico-crop:before {
@@ -1932,5 +1954,4 @@ a .blr:hover {
 .ico-logout:before {
     content: "\e80c";
 }
-
 
