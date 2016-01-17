@@ -30,7 +30,7 @@ You will need the files:
 
 
 You do not need the file 525icons.otf, unless you want to install it on your OS.
-The css file must be in the same directory as the fonts. If not, you have the make changes in the code.
+The css file must be in the same directory as the fonts. If not, you have to make changes in the code.
 
 In the <code>&lt;head&gt;</code> of your html, reference the location to your 525icons.css and fonts. 
 
