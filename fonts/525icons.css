@@ -225,6 +225,7 @@ i {
 	vertical-align: middle;
 }
 .ux-stack-1x,
+.ux-stack-1-7x, 
 .ux-stack-2x {
 	position: absolute;
 	left: 0;
@@ -232,6 +233,11 @@ i {
 	text-align: center;
 }
 .ux-stack-1x {
+	line-height: inherit;
+}
+
+.ux-stack-1-7x {
+	font-size: 1.7em;
 	line-height: inherit;
 }
 
@@ -403,7 +409,7 @@ a .blr:hover {
 .ico-sharepoint:before {
     content: "\e607";
 }
-.ico-Sway:before {
+.ico-sway:before {
     content: "\e608";
 }
 .ico-word:before {
@@ -736,64 +742,64 @@ a .blr:hover {
 .ico-thumbs-up:before {
     content: "\e676";
 }
-.ico-thumbs-down:before {
+.ico-stopwatch:before {
     content: "\e677";
 }
-.ico-stopwatch:before {
+.ico-circle-upload:before {
     content: "\e678";
 }
-.ico-circle-upload:before {
+.ico-circle-download:before {
     content: "\e679";
 }
-.ico-circle-download:before {
+.ico-card-spade:before {
     content: "\e67a";
 }
-.ico-card-spade:before {
+.ico-card-club:before {
     content: "\e67b";
 }
-.ico-card-club:before {
+.ico-card-heart:before {
     content: "\e67c";
 }
-.ico-card-heart:before {
+.ico-card-diamond:before {
     content: "\e67d";
 }
-.ico-card-diamond:before {
+.ico-key:before {
     content: "\e67e";
 }
-.ico-key:before {
+.ico-musicalnote:before {
     content: "\e67f";
 }
-.ico-musicalnote:before {
+.ico-yin-yang:before {
     content: "\e680";
 }
-.ico-yin-yang:before {
+.ico-radioactive:before {
     content: "\e681";
 }
-.ico-radioactive:before {
+.ico-upload:before {
     content: "\e682";
 }
-.ico-upload:before {
+.ico-download:before {
     content: "\e683";
 }
-.ico-download:before {
+.ico-after-effects:before {
     content: "\e684";
 }
-.ico-after-effects:before {
+.ico-illustrator:before {
     content: "\e685";
 }
-.ico-illustrator:before {
+.ico-audition:before {
     content: "\e686";
 }
-.ico-audition:before {
+.ico-bridge:before {
     content: "\e687";
 }
-.ico-bridge:before {
+.ico-dreamweaver:before {
     content: "\e688";
 }
-.ico-dreamweaver:before {
+.ico-fireworks:before {
     content: "\e689";
 }
-.ico-fireworks:before {
+.ico-indesign:before {
     content: "\e68a";
 }
 .ico-lightroom:before {
