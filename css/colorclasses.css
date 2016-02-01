@@ -1,3 +1,39 @@
+/*social media icon colors*/
+.facebook { color:#3b5998;}
+.twitter { color: #00aced;}
+.vimeo { color:#aad450;}
+.skype  { color:#00aff0;}
+.flipboard  { color:#E12828;}
+.youtube { color:#bb0000;}
+.pocket { color:#ee4055;}
+.googleplus { color:#DC4E41;}
+.addthis { color:#f8694d;}
+.pinterest { color:#cb2027;}
+.rss 		{ color:#DB4437;}
+.email  	{ color:#5F729D;}
+.blogger 	{ color:#F8883D;}
+.linkedin	{ color:#0077B5;}
+
+/*adobe app icon colors*/
+.col-au { color:#44d6a9;}
+.bg-au { background-color:#152a2b;}
+
+.col-br { color:#f7bc06;}
+.bg-br { background-color:#372807;}
+
+.col-dw { color:#90ea00;}
+.bg-dw { background-color:#132a10;}
+
+.col-id { color:#ec4fa8;}
+.bg-id { background-color:#33071e;}
+
+.col-lr { color:#9cd6e8;}
+.bg-lr { background-color:#2d3248;}
+
+.col-ps { color:#99ceff;}
+.bg-ps { background-color:#2e276d;}
+
+
 .black {
     color:#000000;
 }
