@@ -13,7 +13,7 @@ html, body {
 }
 body {
 	color: #555;
-	background-color: #e4f1f1;
+	background-color: #bcfbfb;
 }
 html, body, p { 
 	font-family: 'Open Sans', 'Segoe UI', 'HelveticaNeue', Arial, 'ArialMT', sans-serif;
@@ -23,6 +23,11 @@ html, body, p {
 p	{ 
 	color: #222;
 
+}
+code {
+  color: #5e26cf;
+  background-color: rgba(249, 242, 244, .65);
+  /* #f9f2f4; */
 }
 .sans-p {
 	font-family: 'nimbus-sans-extended', sans-serif;
@@ -62,7 +67,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	margin-top: 40px;
 }
 .textbox0:hover .mls, .textbox0:focus .mls {
-	color: #fff;
+	color: #bcfbfb;
 }
 .textbox0 i.ux-2x:hover, .textbox0 i.ux-2x:focus {
 	vertical-align: center;
@@ -75,7 +80,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 #page-wrap {
   min-height: 100%;
   /* negative margin-bottom equal to site-footer height */
-  margin-bottom: -220px; 
+  margin-bottom: -220px;
 }
 #page-wrap:after {
   content: "";
