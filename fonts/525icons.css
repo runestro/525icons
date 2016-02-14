@@ -971,22 +971,22 @@ a .blr:hover {
 .ico-producthunt:before {
     content: "\e6c4";
 }
-.ico-panda:before {
+.ico-jsdelivr:before {
     content: "\e6c5";
 }
-.ico-turtle:before {
+.ico-feedly:before {
     content: "\e6c6";
 }
-.ico-rabbit:before {
+.ico-weebly:before {
     content: "\e6c7";
 }
-.ico-cat:before {
+.ico-wechat:before {
     content: "\e6c8";
 }
-.ico-dog:before {
+.ico-line:before {
     content: "\e6c9";
 }
-.ico-dolphin:before {
+.ico-panda:before {
     content: "\e6ca";
 }
 .ico-coffee:before {
@@ -1208,7 +1208,7 @@ a .blr:hover {
 .ico-creditcard:before {
     content: "\e713";
 }
-.ico-recycle-o:before {
+.ico-g-wallet:before {
     content: "\e714";
 }
 .ico-start-chat:before {
@@ -1391,7 +1391,7 @@ a .blr:hover {
 .ico-int-guard:before {
     content: "\e750";
 }
-.ico-int-tram:before {
+.ico-int-elevator:before {
     content: "\e751";
 }
 .ico-int-litter:before {
@@ -1433,22 +1433,22 @@ a .blr:hover {
 .ico-infinity:before {
     content: "\e75e";
 }
-.ico-search:before {
+.ico-recycle-o:before {
     content: "\e75f";
 }
-.ico-spinner:before {
+.ico-search:before {
     content: "\e760";
 }
-.ico-bulb:before {
+.ico-spinner:before {
     content: "\e761";
 }
-.ico-circle-o-notch:before {
+.ico-bulb:before {
     content: "\e762";
 }
-.ico-refresh:before {
+.ico-circle-o-notch:before {
     content: "\e763";
 }
-.ico-reload:before {
+.ico-refresh:before {
     content: "\e764";
 }
 .ico-spinner2:before {
@@ -1949,7 +1949,7 @@ a .blr:hover {
 .ico-map:before {
     content: "\e80a";
 }
-.ico-w-map:before {
+.ico-map2:before {
     content: "\e80b";
 }
 .ico-logout:before {
