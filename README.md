@@ -36,12 +36,12 @@ In the <code>&lt;head&gt;</code> of your html, reference the location to your 52
 
 <code>&lt;link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css"&gt;</code>
 
-NEW! The 525icons css and font files are now available at 
-jsdelivr.com The free super-fast CDN for developers and webmasters.
+<strong>NEW! The 525icons css and font files are now available at 
+jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
 You no longer need to add the font files on your own server. It's enough to just link the css file with the link below:
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.6.0/525icons.min.css">
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.6.0/525icons.min.css"&gt;</code>
 
 <strong>How to place the icons in your html-file:</strong><br>
 Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code> 
