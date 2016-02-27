@@ -41,7 +41,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
 You no longer need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.6.0/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.7.1/525icons.min.css"&gt;</code>
 
 <strong>How to place the icons in your html-file:</strong><br>
 Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code> 
