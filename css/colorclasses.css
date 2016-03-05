@@ -33,7 +33,7 @@
 .col-ps { color:#99ceff;}
 .bg-ps { background-color:#2e276d;}
 
-
+/* 140 standard color names */
 .black {
     color:#000000;
 }
@@ -457,6 +457,7 @@
 .white {
     color:#ffffff;
 }
+/* background colors */
 .bg-black {
     background:#000000;
 }

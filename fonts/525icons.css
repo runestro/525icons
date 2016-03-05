@@ -1,4 +1,4 @@
-/*! 525icons.css v1.7.1 by @runestro*/
+/*! 525icons.css v1.8.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -1316,7 +1316,7 @@ a .blr:hover {
 .ico-angle-double:before {
     content: "\e737";
 }
-.ico-angle-thinline:before {
+.ico-play2:before {
     content: "\e738";
 }
 .ico-favorites:before {
