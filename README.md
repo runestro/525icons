@@ -11,6 +11,13 @@ The font is assembled in the icoMoon app: https://icomoon.io/app.
 
 
 ##Instructions (How-to)
+<strong>NEW! The 525icons css and font files are now available at 
+jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
+
+You no longer need to add the font files on your own server. It's enough to just link the css file like this:
+
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.8.0/525icons.min.css"&gt;</code>
+
 If you are familiar with the use of the Font Awesome web font, the 525icons web font css code has some differences.
 
 The icons are placed by adding the 'ico-' class prefix to the icons name (Font Awesome uses the 'fa-' prefix).
@@ -28,20 +35,12 @@ You will need the files:
 <li>fonts/525icons.woff2</li>
 </ul>
 
-
 You do not need the file 525icons.otf, unless you want to install it on your OS.
 The css file must be in the same directory as the fonts. If not, you have to make changes in the code.
 
 In the <code>&lt;head&gt;</code> of your html, reference the location to your 525icons.css and fonts. 
 
 <code>&lt;link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css"&gt;</code>
-
-<strong>NEW! The 525icons css and font files are now available at 
-jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
-
-You no longer need to add the font files on your own server. It's enough to just link the css file like this:
-
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/1.8.0/525icons.min.css"&gt;</code>
 
 <strong>How to place the icons in your html-file:</strong><br>
 Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code> 
