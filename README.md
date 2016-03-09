@@ -23,7 +23,7 @@ If you are familiar with the use of the Font Awesome web font, the 525icons web 
 The icons are placed by adding the 'ico-' class prefix to the icons name (Font Awesome uses the 'fa-' prefix).
 Transitions, sizes and effects use the 'ux-' prefix (While the Font Awesome uses the 'fa-' prefix all over). 
 
-Make sure the entire fonts directory is copied into your project.
+If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:
 
 <ul>
