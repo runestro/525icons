@@ -1,4 +1,4 @@
-/*! 525icons.css v2.0.0 by @runestro*/
+/*! 525icons.css v2.1.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -961,7 +961,7 @@ a .blr:hover {
 .ico-pie:before {
     content: "\e6bf";
 }
-.ico-lock2:before {
+.ico-qross:before {
     content: "\e6c0";
 }
 .ico-char:before {
@@ -1537,10 +1537,10 @@ a .blr:hover {
 .ico-dice-six:before {
     content: "\e77f";
 }
-.ico-circle-facebook:before {
+.ico-go2:before {
     content: "\e780";
 }
-.ico-circle-share:before {
+.ico-circle-facebook:before {
     content: "\e781";
 }
 .ico-circle-googleplus:before {

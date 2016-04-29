@@ -69,17 +69,62 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	cursor: none;
 }
 
+/* Box Shadow Inset */
+.hvr-box-shadow-inset {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: middle;
+   padding: 6px;
+  margin: 6px;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0);
+  /* Hack to improve aliasing on mobile/tablet devices */
+}
+.hvr-box-shadow-inset:hover, .hvr-box-shadow-inset:focus, .hvr-box-shadow-inset:active {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0);
+  /* Hack to improve aliasing on mobile/tablet devices */
+}
+/* Glow */
+.hvr-glow {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  vertical-align: middle;
+  padding: 6px;
+  margin: 6px;
+-webkit-transform: translateZ(0);
+  transform: translateZ(0); 
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+}
+.hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
 #page-wrap {
   min-height: 100%;
   /* negative margin-bottom equal to site-footer height */
-  margin-bottom: -220px;
+  margin-bottom: -230px;
 }
 #page-wrap:after {
   content: "";
   display: block;
 }
 #site-footer, #page-wrap:after {
-  height: 220px; 
+   height: 230px; 
 }
 #site-footer {
 	text-align: center;
@@ -91,14 +136,16 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 }
 #site-footer p {
 	font-size: 14px;
-	margin-top: 10px;
-	line-height: 16px;
+	margin-top: 15px;
+	line-height: 10px;
 }
+
 #site-footer p a{
 	text-decoration: none;
 }
 #site-footer h3{
 	line-height: 36px;
+	margin-top: 15px;
 }
 /* #site-footer p a:hover{
 	background-color: rgba(255,255,255,0.5);
@@ -111,7 +158,8 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	height: 80px; 
 }
 #main{
-	background-color: rgba(0,0,0, 0.05); 
+	/*background-color: rgba(0,0,0, 0.05);*/ 
+	background-color: rgba(255,255,255, .5);
 
 /*	background-image: -ms-linear-gradient(top, rgba(235,247,255,.50) 0%,rgba(126,150,206,.30) 100%);
 	background-image: -moz-linear-gradient(270deg,rgba(235,247,255,.50) 0%,rgba(126,150,206,.30) 100%);
@@ -126,17 +174,25 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 	/*border-bottom: 1px solid rgba(0, 0, 0, 0.14902);*/
 	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 	}
-#main h1{
-	font-family: 'nexa_rust_bs', Impact, "Arial Black", sans-serif;
-	/* font-family: 'Century Gothic', 'AvenirNext-Regular', Helvetica, sans-serif; */
+#main h1{		   
+    font-family: 'museo_slab700',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: normal;
+    color: #0dcccc;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.75);
+/*	text-transform:uppercase;
 	color: rgba(0,0,0,.75);
-	font-size: 100px;
+	font-size: 64px;*/
 	margin:0;
-	letter-spacing: 4px;
+	letter-spacing: 3px;
+
 	}
 #main h1 i{
-	color: rgba(0,0,0,.75);
-	font-size: 88px;
+	/*color: rgba(0,0,0,.75);*/
+	color: #0dcccc;
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.75);
+	font-size: 64px;
 	vertical-align:bottom;
 	margin-bottom:12px;
 	margin-right:12px;
@@ -196,6 +252,31 @@ header {
 	margin-right: auto;
 	text-align: center;	
 }
+.max-800 {
+	max-width: 800px;
+	min-width: 321px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;	
+}
+.max-800 p.quote{
+	text-align: justify;	
+}
+.quote {
+	font-family: 'Open Sans','HelveticaNeue-Italic', Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-style: italic; 
+}
+p.quote code{
+	font-family: 'Open Sans','HelveticaNeue', Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-style: normal; 
+}
+.max-800 p.quote code{
+	text-align: left;	
+}
 
 .w-200 {
 	width: 200px;
@@ -229,11 +310,7 @@ header {
 	clear:both;
 	float: none;
 }
-.quote {
-	font-family: 'Open Sans','HelveticaNeue-Italic', Arial, Helvetica, sans-serif;
-	letter-spacing: 1px;
-	font-style: italic; 
-}
+
 .tube-text {
 	font-family: 'HelveticaNeue-CondensedBold', 'Arial Narrow', Helvetica , sans-serif;
 	font-size: 14px;
