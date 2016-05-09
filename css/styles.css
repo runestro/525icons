@@ -1,6 +1,7 @@
 @media all and (min-device-width : 1025px) {
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,400italic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700,800);
 }
+
 *, html, body{
 margin:0;
 padding:0;
@@ -43,6 +44,7 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 .a-color, .link-color {
   color: #337ab7;
 }
+
 .textbox0 {
 	width: 150px;
 /* 	padding: .25em .5em;	 */
@@ -114,6 +116,13 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 .hvr-glow:hover, .hvr-glow:focus, .hvr-glow:active {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
 }
+.center-all{
+    float: none;
+	text-align:center;
+    margin-left: auto;
+	margin-right: auto;
+	max-width: 98%;
+}
 #page-wrap {
   min-height: 100%;
   /* negative margin-bottom equal to site-footer height */
@@ -136,16 +145,18 @@ text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
 }
 #site-footer p {
 	font-size: 14px;
-	margin-top: 15px;
+	/* margin-top: 15px; */
+	/* line-height: 10px; */
+}
+.footer-info {
 	line-height: 10px;
 }
-
 #site-footer p a{
 	text-decoration: none;
 }
 #site-footer h3{
-	line-height: 36px;
-	margin-top: 15px;
+/* 	line-height: 36px;
+	margin-top: 15px; */
 }
 /* #site-footer p a:hover{
 	background-color: rgba(255,255,255,0.5);
@@ -244,6 +255,13 @@ header {
 	text-align: center;
 	padding-top: 40px;
 	z-index:1;
+}
+.max-400 {
+	max-width: 400px;
+	min-width: 321px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;	
 }
 .max-650 {
 	max-width: 650px;
@@ -361,7 +379,19 @@ p.quote code{
 	-moz-box-shadow:    1px 1px 6px 0px rgba(50, 50, 50, 0.5);
 	box-shadow:         1px 1px 6px 0px rgba(50, 50, 50, 0.5);
 }
-
+.stacked-text {
+	font-family: 'Oswald';
+	font-size: .7em;
+	font-weight: 700;
+	letter-spacing: 0px;
+	top: .4em; 
+	vertical-align: top; 
+}
+.filetype-stack {
+	font-size: 1em;
+	top: .25em; 
+	vertical-align: top; 
+}
 figure
  {
   margin-top: 10px;
@@ -725,6 +755,13 @@ border-bottom-right-radius: 6px;
     border:none;
     box-shadow:none;
 	padding: 0;
+}
+.img-responsiv {
+    max-width:100%;
+    height:auto
+}
+.border-radius-8 {
+    border-radius:8px
 }
 #social a {
 	margin-right:10px;

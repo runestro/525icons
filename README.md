@@ -1,4 +1,4 @@
-#[525icons v2.1.0](http://525icons.com)
+#[525icons v2.2.0](http://525icons.com)
 ###A web icon font with style.
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
@@ -16,7 +16,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
 You no longer need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/2.1.0/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/2.2.0/525icons.min.css"&gt;</code>
 
 If you are familiar with the use of the Font Awesome web font, the 525icons web font css code has some differences.
 

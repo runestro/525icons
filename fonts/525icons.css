@@ -1,4 +1,4 @@
-/*! 525icons.css v2.1.0 by @runestro*/
+/*! 525icons.css v2.2.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -568,100 +568,100 @@ a .blr:hover {
 .ico-scoopit:before {
     content: "\e63c";
 }
-.ico-googleplus:before {
+.ico-addthis:before {
     content: "\e63d";
 }
-.ico-addthis:before {
+.ico-yahoo:before {
     content: "\e63e";
 }
-.ico-yahoo:before {
+.ico-aim:before {
     content: "\e63f";
 }
-.ico-aim:before {
+.ico-picasa:before {
     content: "\e640";
 }
-.ico-picasa:before {
+.ico-tumblr:before {
     content: "\e641";
 }
-.ico-share:before {
+.ico-evernote:before {
     content: "\e642";
 }
-.ico-tumblr:before {
+.ico-behance:before {
     content: "\e643";
 }
-.ico-evernote:before {
+.ico-flipboard:before {
     content: "\e644";
 }
-.ico-behance:before {
+.ico-500px:before {
     content: "\e645";
 }
-.ico-flipboard:before {
+.ico-youtube:before {
     content: "\e646";
 }
-.ico-linkedin:before {
+.ico-stumbleupon:before {
     content: "\e647";
 }
-.ico-500px:before {
+.ico-delicious:before {
     content: "\e648";
 }
-.ico-youtube:before {
+.ico-facebook:before {
     content: "\e649";
 }
-.ico-stumbleupon:before {
+.ico-twitter:before {
     content: "\e64a";
 }
-.ico-delicious:before {
+.ico-blogger:before {
     content: "\e64b";
 }
-.ico-facebook:before {
+.ico-digg:before {
     content: "\e64c";
 }
-.ico-twitter:before {
+.ico-vkontakte:before {
     content: "\e64d";
 }
-.ico-instagram:before {
+.ico-email:before {
     content: "\e64e";
 }
-.ico-vimeo:before {
+.ico-volume-mute:before {
     content: "\e64f";
 }
-.ico-blogger:before {
+.ico-volume-down:before {
     content: "\e650";
 }
-.ico-digg:before {
+.ico-volume-up:before {
     content: "\e651";
 }
-.ico-pocket:before {
+.ico-volume-off:before {
     content: "\e652";
 }
-.ico-vkontakte:before {
+.ico-play:before {
     content: "\e653";
 }
-.ico-email:before {
+.ico-pause:before {
     content: "\e654";
 }
-.ico-play:before {
+.ico-stop:before {
     content: "\e655";
 }
-.ico-pause:before {
+.ico-forward:before {
     content: "\e656";
 }
-.ico-stop:before {
+.ico-fast-forward:before {
     content: "\e657";
 }
-.ico-forward:before {
+.ico-step-forward:before {
     content: "\e658";
 }
-.ico-fast-forward:before {
+.ico-eject:before {
     content: "\e659";
 }
-.ico-step-forward:before {
+.ico-hd:before {
     content: "\e65a";
 }
-.ico-eject:before {
+.ico-high-quality:before {
     content: "\e65b";
 }
-.ico-listen:before {
+.ico-g-translate:before {
     content: "\e65c";
 }
 .ico-circle-0:before {
@@ -700,94 +700,94 @@ a .blr:hover {
 .ico-lock-open:before {
     content: "\e668";
 }
-.ico-keyboard:before {
+.ico-calendar-open:before {
     content: "\e669";
 }
-.ico-calendar-open:before {
+.ico-calendar:before {
     content: "\e66a";
 }
-.ico-calendar:before {
+.ico-traffic-cone:before {
     content: "\e66b";
 }
-.ico-traffic-cone:before {
+.ico-archive:before {
     content: "\e66c";
 }
-.ico-archive:before {
+.ico-books:before {
     content: "\e66d";
 }
-.ico-books:before {
+.ico-table:before {
     content: "\e66e";
 }
-.ico-table:before {
+.ico-select-cells:before {
     content: "\e66f";
 }
-.ico-select-cells:before {
+.ico-london-tube:before {
     content: "\e670";
 }
-.ico-london-tube:before {
+.ico-map-marker:before {
     content: "\e671";
 }
-.ico-map-marker:before {
+.ico-street-view:before {
     content: "\e672";
 }
-.ico-street-view:before {
+.ico-link:before {
     content: "\e673";
 }
-.ico-link:before {
+.ico-database:before {
     content: "\e674";
 }
-.ico-database:before {
+.ico-thumbs-up:before {
     content: "\e675";
 }
-.ico-thumbs-up:before {
+.ico-circle-upload:before {
     content: "\e676";
 }
-.ico-stopwatch:before {
+.ico-circle-download:before {
     content: "\e677";
 }
-.ico-circle-upload:before {
+.ico-stopwatch:before {
     content: "\e678";
 }
-.ico-circle-download:before {
+.ico-card-spade:before {
     content: "\e679";
 }
-.ico-card-spade:before {
+.ico-card-club:before {
     content: "\e67a";
 }
-.ico-card-club:before {
+.ico-card-heart:before {
     content: "\e67b";
 }
-.ico-card-heart:before {
+.ico-card-diamond:before {
     content: "\e67c";
 }
-.ico-card-diamond:before {
+.ico-key:before {
     content: "\e67d";
 }
-.ico-key:before {
+.ico-musicalnote:before {
     content: "\e67e";
 }
-.ico-musicalnote:before {
+.ico-yin-yang:before {
     content: "\e67f";
 }
-.ico-yin-yang:before {
+.ico-radioactive:before {
     content: "\e680";
 }
-.ico-radioactive:before {
+.ico-upload:before {
     content: "\e681";
 }
-.ico-upload:before {
+.ico-download:before {
     content: "\e682";
 }
-.ico-download:before {
+.ico-ce-mark:before {
     content: "\e683";
 }
-.ico-ce-mark:before {
+.ico-book:before {
     content: "\e684";
 }
-.ico-book:before {
+.ico-quotes1:before {
     content: "\e685";
 }
-.ico-quotes1:before {
+.ico-eye:before {
     content: "\e686";
 }
 .ico-after-effects:before {
@@ -820,160 +820,160 @@ a .blr:hover {
 .ico-photoshop:before {
     content: "\e690";
 }
-.ico-eye:before {
+.ico-connection-wifi:before {
     content: "\e691";
 }
-.ico-connection-wifi:before {
+.ico-wifi:before {
     content: "\e692";
 }
-.ico-wifi:before {
+.ico-usb:before {
     content: "\e693";
 }
-.ico-usb:before {
+.ico-usb-drive:before {
     content: "\e694";
 }
-.ico-usb-drive:before {
+.ico-bluetooth:before {
     content: "\e695";
 }
-.ico-bluetooth:before {
+.ico-calculator:before {
     content: "\e696";
 }
-.ico-calculator:before {
+.ico-newspaper:before {
     content: "\e697";
 }
-.ico-newspaper:before {
+.ico-bing:before {
     content: "\e698";
 }
-.ico-bing:before {
+.ico-marketplace:before {
     content: "\e699";
 }
-.ico-marketplace:before {
+.ico-xbox:before {
     content: "\e69a";
 }
-.ico-xbox:before {
+.ico-playstation:before {
     content: "\e69b";
 }
-.ico-playstation:before {
+.ico-google-wd:before {
     content: "\e69c";
 }
-.ico-google-wd:before {
+.ico-hootsuite:before {
     content: "\e69d";
 }
-.ico-hootsuite:before {
+.ico-stackexchange:before {
     content: "\e69e";
 }
-.ico-stackexchange:before {
+.ico-gitlab:before {
     content: "\e69f";
 }
-.ico-gitlab:before {
+.ico-glide:before {
     content: "\e6a0";
 }
-.ico-glide:before {
+.ico-wix:before {
     content: "\e6a1";
 }
-.ico-wix:before {
+.ico-meetup:before {
     content: "\e6a2";
 }
-.ico-meetup:before {
+.ico-snapchat:before {
     content: "\e6a3";
 }
-.ico-files:before {
+.ico-vine:before {
     content: "\e6a4";
 }
-.ico-peace:before {
+.ico-qross:before {
     content: "\e6a5";
 }
-.ico-smiling-eyes:before {
+.ico-producthunt:before {
     content: "\e6a6";
 }
-.ico-laughing-smiling-eyes:before {
+.ico-slack:before {
     content: "\e6a7";
 }
-.ico-winking-face:before {
+.ico-files:before {
     content: "\e6a8";
 }
-.ico-smiling-heart-eyes:before {
+.ico-peace:before {
     content: "\e6a9";
 }
-.ico-smirking-face:before {
+.ico-smiling-eyes:before {
     content: "\e6aa";
 }
-.ico-disappointed-face:before {
+.ico-laughing-smiling-eyes:before {
     content: "\e6ab";
 }
-.ico-unamused-face:before {
+.ico-winking-face:before {
     content: "\e6ac";
 }
-.ico-persevering-face:before {
+.ico-smiling-heart-eyes:before {
     content: "\e6ad";
 }
-.ico-unhappy-face:before {
+.ico-smirking-face:before {
     content: "\e6ae";
 }
-.ico-inv-smile:before {
+.ico-disappointed-face:before {
     content: "\e6af";
 }
-.ico-copyright:before {
+.ico-unamused-face:before {
     content: "\e6b0";
 }
-.ico-aries:before {
+.ico-persevering-face:before {
     content: "\e6b1";
 }
-.ico-taurus:before {
+.ico-inv-smile:before {
     content: "\e6b2";
 }
-.ico-gemini:before {
+.ico-copyright:before {
     content: "\e6b3";
 }
-.ico-cancer:before {
+.ico-aries:before {
     content: "\e6b4";
 }
-.ico-leo:before {
+.ico-taurus:before {
     content: "\e6b5";
 }
-.ico-virgo:before {
+.ico-gemini:before {
     content: "\e6b6";
 }
-.ico-libra:before {
+.ico-cancer:before {
     content: "\e6b7";
 }
-.ico-scorpio:before {
+.ico-leo:before {
     content: "\e6b8";
 }
-.ico-sagittarius:before {
+.ico-virgo:before {
     content: "\e6b9";
 }
-.ico-capricorn:before {
+.ico-libra:before {
     content: "\e6ba";
 }
-.ico-aquarius:before {
+.ico-scorpio:before {
     content: "\e6bb";
 }
-.ico-pisces:before {
+.ico-sagittarius:before {
     content: "\e6bc";
 }
-.ico-celcius:before {
+.ico-capricorn:before {
     content: "\e6bd";
 }
-.ico-fahrenheit:before {
+.ico-aquarius:before {
     content: "\e6be";
 }
-.ico-pie:before {
+.ico-pisces:before {
     content: "\e6bf";
 }
-.ico-qross:before {
+.ico-celcius:before {
     content: "\e6c0";
 }
-.ico-char:before {
+.ico-fahrenheit:before {
     content: "\e6c1";
 }
-.ico-biohazard:before {
+.ico-pie:before {
     content: "\e6c2";
 }
-.ico-slack:before {
+.ico-char:before {
     content: "\e6c3";
 }
-.ico-producthunt:before {
+.ico-biohazard:before {
     content: "\e6c4";
 }
 .ico-jsdelivr:before {
@@ -1003,193 +1003,193 @@ a .blr:hover {
 .ico-recycle:before {
     content: "\e6cd";
 }
-.ico-snapchat:before {
+.ico-icloud:before {
     content: "\e6ce";
 }
-.ico-icloud:before {
+.ico-instagram:before {
     content: "\e6cf";
 }
-.ico-vine:before {
+.ico-coderwall:before {
     content: "\e6d0";
 }
-.ico-instagram2:before {
+.ico-surveillance-cam:before {
     content: "\e6d1";
 }
-.ico-coderwall:before {
+.ico-mic:before {
     content: "\e6d2";
 }
-.ico-surveillance-cam:before {
+.ico-headphones:before {
     content: "\e6d3";
 }
-.ico-mic:before {
+.ico-coffee:before {
     content: "\e6d4";
 }
-.ico-headphones:before {
+.ico-onedrive:before {
     content: "\e6d5";
 }
-.ico-coffee:before {
+.ico-creativecloud:before {
     content: "\e6d6";
 }
-.ico-onedrive:before {
+.ico-sunny:before {
     content: "\e6d7";
 }
-.ico-creativecloud:before {
+.ico-partly-cloudy:before {
     content: "\e6d8";
 }
-.ico-sunny:before {
+.ico-cloudy:before {
     content: "\e6d9";
 }
-.ico-partly-cloudy:before {
+.ico-rainy:before {
     content: "\e6da";
 }
-.ico-cloudy:before {
+.ico-lightning:before {
     content: "\e6db";
 }
-.ico-rainy:before {
+.ico-snowy:before {
     content: "\e6dc";
 }
-.ico-lightning:before {
+.ico-snowflake:before {
     content: "\e6dd";
 }
-.ico-snowy:before {
+.ico-mail-send:before {
     content: "\e6de";
 }
-.ico-snowflake:before {
+.ico-go:before {
     content: "\e6df";
 }
-.ico-mail-send:before {
+.ico-notifications:before {
     content: "\e6e0";
 }
-.ico-go:before {
+.ico-select:before {
     content: "\e6e1";
 }
-.ico-notifications:before {
+.ico-app-launcher:before {
     content: "\e6e2";
 }
-.ico-select:before {
+.ico-shapes:before {
     content: "\e6e3";
 }
-.ico-app-launcher:before {
+.ico-globe:before {
     content: "\e6e4";
 }
-.ico-shapes:before {
+.ico-moon:before {
     content: "\e6e5";
 }
-.ico-globe:before {
+.ico-stop-sign:before {
     content: "\e6e6";
 }
-.ico-moon:before {
+.ico-movie-clapper:before {
     content: "\e6e7";
 }
-.ico-stop-sign:before {
+.ico-at:before {
     content: "\e6e8";
 }
-.ico-movie-clapper:before {
+.ico-square-bullet:before {
     content: "\e6e9";
 }
-.ico-at:before {
+.ico-5star-shadow:before {
     content: "\e6ea";
 }
-.ico-square-bullet:before {
+.ico-bullet:before {
     content: "\e6eb";
 }
-.ico-5star-shadow:before {
+.ico-deco-bullet:before {
     content: "\e6ec";
 }
-.ico-bullet:before {
+.ico-square-bullet2:before {
     content: "\e6ed";
 }
-.ico-deco-bullet:before {
+.ico-asterisk:before {
     content: "\e6ee";
 }
-.ico-square-bullet2:before {
+.ico-star-e:before {
     content: "\e6ef";
 }
-.ico-asterisk:before {
+.ico-archive-box:before {
     content: "\e6f0";
 }
-.ico-star-e:before {
+.ico-blueray:before {
     content: "\e6f1";
 }
-.ico-archive-box:before {
+.ico-dvd:before {
     content: "\e6f2";
 }
-.ico-blueray:before {
+.ico-badge:before {
     content: "\e6f3";
 }
-.ico-dvd:before {
+.ico-asterisk2:before {
     content: "\e6f4";
 }
-.ico-badge:before {
+.ico-star-small:before {
     content: "\e6f5";
 }
-.ico-asterisk2:before {
+.ico-target:before {
     content: "\e6f6";
 }
-.ico-star-small:before {
+.ico-palette:before {
     content: "\e6f7";
 }
-.ico-target:before {
+.ico-mouse:before {
     content: "\e6f8";
 }
-.ico-palette:before {
+.ico-lastfm:before {
     content: "\e6f9";
 }
-.ico-mouse:before {
+.ico-acrobat:before {
     content: "\e6fa";
 }
-.ico-lastfm:before {
+.ico-google-play:before {
     content: "\e6fb";
 }
-.ico-acrobat:before {
+.ico-amazon:before {
     content: "\e6fc";
 }
-.ico-google-play:before {
+.ico-scribd:before {
     content: "\e6fd";
 }
-.ico-amazon:before {
+.ico-science:before {
     content: "\e6fe";
 }
-.ico-scribd:before {
+.ico-library:before {
     content: "\e6ff";
 }
-.ico-science:before {
+.ico-suitcase:before {
     content: "\e700";
 }
-.ico-library:before {
+.ico-fingerprint:before {
     content: "\e701";
 }
-.ico-suitcase:before {
+.ico-registered:before {
     content: "\e702";
 }
-.ico-fa-logo:before {
+.ico-home:before {
     content: "\e703";
 }
-.ico-registered:before {
+.ico-home2:before {
     content: "\e704";
 }
-.ico-home:before {
+.ico-attachment:before {
     content: "\e705";
 }
-.ico-home2:before {
+.ico-cut:before {
     content: "\e706";
 }
-.ico-attachment:before {
+.ico-copy:before {
     content: "\e707";
 }
-.ico-cut:before {
+.ico-paste:before {
     content: "\e708";
 }
-.ico-copy:before {
+.ico-file-o:before {
     content: "\e709";
 }
-.ico-paste:before {
+.ico-save:before {
     content: "\e70a";
 }
-.ico-save:before {
+.ico-printer:before {
     content: "\e70b";
 }
-.ico-printer:before {
+.ico-question:before {
     content: "\e70c";
 }
 .ico-creditcard:before {
@@ -1225,7 +1225,7 @@ a .blr:hover {
 .ico-radio:before {
     content: "\e717";
 }
-.ico-keyboard2:before {
+.ico-keyboard:before {
     content: "\e718";
 }
 .ico-shoppingbag:before {
@@ -1237,7 +1237,7 @@ a .blr:hover {
 .ico-basket2:before {
     content: "\e71b";
 }
-.ico-question:before {
+.ico-barcode:before {
     content: "\e71c";
 }
 .ico-info-circle:before {
@@ -1255,34 +1255,34 @@ a .blr:hover {
 .ico-toggle-off:before {
     content: "\e721";
 }
-.ico-barcode:before {
+.ico-signal-0:before {
     content: "\e722";
 }
-.ico-signal-0:before {
+.ico-signal-1:before {
     content: "\e723";
 }
-.ico-signal-1:before {
+.ico-signal-2:before {
     content: "\e724";
 }
-.ico-signal-2:before {
+.ico-signal-3:before {
     content: "\e725";
 }
-.ico-signal-3:before {
+.ico-signal-4:before {
     content: "\e726";
 }
-.ico-signal-4:before {
+.ico-signal-5:before {
     content: "\e727";
 }
-.ico-signal-5:before {
+.ico-favorites:before {
     content: "\e728";
 }
-.ico-favorites:before {
+.ico-bookm-blk:before {
     content: "\e729";
 }
-.ico-bookm-blk:before {
+.ico-terminal:before {
     content: "\e72a";
 }
-.ico-terminal:before {
+.ico-sd-card:before {
     content: "\e72b";
 }
 .ico-fullscr:before {
@@ -1333,46 +1333,46 @@ a .blr:hover {
 .ico-caret:before {
     content: "\e73b";
 }
-.ico-globe-2:before {
+.ico-caret-circle:before {
     content: "\e73c";
 }
-.ico-domain2:before {
+.ico-globe-2:before {
     content: "\e73d";
 }
-.ico-sharing:before {
+.ico-domain2:before {
     content: "\e73e";
 }
-.ico-remove:before {
+.ico-sharing:before {
     content: "\e73f";
 }
-.ico-bin:before {
+.ico-remove:before {
     content: "\e740";
 }
-.ico-paintbrush:before {
+.ico-bin:before {
     content: "\e741";
 }
-.ico-pencil:before {
+.ico-paintbrush:before {
     content: "\e742";
 }
-.ico-pencil2:before {
+.ico-pencil:before {
     content: "\e743";
 }
-.ico-eyedropper:before {
+.ico-pencil2:before {
     content: "\e744";
 }
-.ico-edit:before {
+.ico-eyedropper:before {
     content: "\e745";
 }
-.ico-bucket:before {
+.ico-edit:before {
     content: "\e746";
 }
-.ico-cc:before {
+.ico-bucket:before {
     content: "\e747";
 }
-.ico-by:before {
+.ico-cc:before {
     content: "\e748";
 }
-.ico-icomoon:before {
+.ico-by:before {
     content: "\e749";
 }
 .ico-int-wheelchair:before {
@@ -1615,7 +1615,7 @@ a .blr:hover {
 .ico-ok:before {
     content: "\e799";
 }
-.ico-linkedin2:before {
+.ico-linkedin:before {
     content: "\e79a";
 }
 .ico-circle-github:before {
@@ -1633,7 +1633,7 @@ a .blr:hover {
 .ico-google:before {
     content: "\e79f";
 }
-.ico-googleplus2:before {
+.ico-googleplus:before {
     content: "\e7a0";
 }
 .ico-reddit:before {
@@ -1768,7 +1768,7 @@ a .blr:hover {
 .ico-evernote2:before {
     content: "\e7cc";
 }
-.ico-pocket2:before {
+.ico-pocket:before {
     content: "\e7cd";
 }
 .ico-youtube2:before {
@@ -1789,7 +1789,7 @@ a .blr:hover {
 .ico-android:before {
     content: "\e7d3";
 }
-.ico-vimeo2:before {
+.ico-vimeo:before {
     content: "\e7d4";
 }
 .ico-windows8:before {
@@ -1930,7 +1930,7 @@ a .blr:hover {
 .ico-qwant:before {
     content: "\e802";
 }
-.ico-share-alt:before {
+.ico-share:before {
     content: "\e803";
 }
 .ico-share2:before {
