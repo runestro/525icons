@@ -1,4 +1,4 @@
-/*! 525icons.css v2.2.0 by @runestro*/
+/*! 525icons.css v2.3.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -276,6 +276,7 @@ a .blr:hover {
 .white-shadow {
 	text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.85);
 }
+
 .shadow1 {
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.75);
 }
@@ -529,7 +530,7 @@ a .blr:hover {
 .ico-zurb:before {
     content: "\e62f";
 }
-.ico-g-analytics:before {
+.ico-share:before {
     content: "\e630";
 }
 .ico-foursquare:before {
@@ -658,7 +659,7 @@ a .blr:hover {
 .ico-hd:before {
     content: "\e65a";
 }
-.ico-high-quality:before {
+.ico-find-in-page:before {
     content: "\e65b";
 }
 .ico-g-translate:before {
@@ -1366,13 +1367,13 @@ a .blr:hover {
 .ico-edit:before {
     content: "\e746";
 }
-.ico-bucket:before {
+.ico-cc:before {
     content: "\e747";
 }
-.ico-cc:before {
+.ico-by:before {
     content: "\e748";
 }
-.ico-by:before {
+.ico-sa:before {
     content: "\e749";
 }
 .ico-int-wheelchair:before {
@@ -1441,25 +1442,25 @@ a .blr:hover {
 .ico-css3:before {
     content: "\e75f";
 }
-.ico-infinity:before {
+.ico-bucket:before {
     content: "\e760";
 }
-.ico-recycle-o:before {
+.ico-infinity:before {
     content: "\e761";
 }
-.ico-search:before {
+.ico-recycle-o:before {
     content: "\e762";
 }
-.ico-spinner:before {
+.ico-search:before {
     content: "\e763";
 }
-.ico-circle-o-notch:before {
+.ico-spinner:before {
     content: "\e764";
 }
-.ico-refresh:before {
+.ico-circle-o-notch:before {
     content: "\e765";
 }
-.ico-spinner2:before {
+.ico-refresh:before {
     content: "\e766";
 }
 .ico-spinner3:before {
@@ -1552,7 +1553,7 @@ a .blr:hover {
 .ico-circle-mail:before {
     content: "\e784";
 }
-.ico-circle-stumbleupon:before {
+.ico-circle-share:before {
     content: "\e785";
 }
 .ico-circle-pinterest:before {
@@ -1930,7 +1931,7 @@ a .blr:hover {
 .ico-qwant:before {
     content: "\e802";
 }
-.ico-share:before {
+.ico-share-alt:before {
     content: "\e803";
 }
 .ico-share2:before {
