@@ -313,6 +313,7 @@ p.quote code{
 	vertical-align: top;
 	text-align: center;
 	float: left;
+	margin-bottom: 15px;
 }
 .center-div {
 	max-width: 80%;
@@ -440,16 +441,22 @@ background:#fff;
 .social_1 a:hover { 
 
 }
+.socialfollow, .socialcircle {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 .socialfollow a { 
 width:48px; 
 height:48px; 
-float:left; 
+/* float:left;  */
 padding:0px;  
 padding-top: 8px; 
 margin: 0;
 text-decoration:none; 
-display:block; 
+display:inline-block; 
 border: 1px solid rgba(0,0,0, .095);
 border-radius:6px;  
 -webkit-transition: all 0.31s ease; 
@@ -459,7 +466,7 @@ border-radius:6px;
 transition: all 0.31s ease; 
 }
 
-.socialfollow a:first-of-type { margin-left:45px;}
+/* .socialfollow a:first-of-type { margin-left:45px;} */
 
 .socialfollow a.facebook:hover, .socialfollow a.facebook:active, .socialfollow a.facebook:focus { background:#3b5996;}
 /* .socialfollow a.facebook:hover i { background:#3b5996;} */
@@ -494,12 +501,12 @@ box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
 .socialcircle a { 
 width:48px; 
 height:48px; 
-float:left; 
+/* float:left;  */
 padding:0px;  
 padding-top: 12px; 
 margin: 0;
 text-decoration:none; 
-display:block; 
+display:inline-block; 
 border-radius:24px;  
 background: #a5a5a5;
 -webkit-transition: all 0.31s ease; 
@@ -509,7 +516,7 @@ background: #a5a5a5;
 transition: all 0.31s ease; 
 }
 
-.socialcircle a:first-of-type { margin-left:45px;}
+/* .socialcircle a:first-of-type { margin-left:45px;} */
 
 .socialcircle a.facebook:hover, .socialcircle a.facebook:active, .socialcircle a.facebook:focus { background:#3b5996;}
 /* .socialcircle a.facebook:hover i { background:#3b5996;} */
@@ -568,7 +575,7 @@ transition: all 0.31s ease;
 	max-width: 450px;
 	margin-left: auto;
 	margin-right: auto;
-	font-size: 224px;
+	font-size: 208px;
 	text-align: center;
 	line-height: 260px;
 	/* text-shadow: 0 2px 0 rgba(0, 0, 0, 0.15); */
