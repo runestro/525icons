@@ -1,4 +1,4 @@
-/*! 525icons.css v2.3.0 by @runestro*/
+/*! 525icons.css v2.4.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -530,7 +530,7 @@ a .blr:hover {
 .ico-zurb:before {
     content: "\e62f";
 }
-.ico-share:before {
+.ico-w3:before {
     content: "\e630";
 }
 .ico-foursquare:before {
@@ -620,7 +620,7 @@ a .blr:hover {
 .ico-vkontakte:before {
     content: "\e64d";
 }
-.ico-email:before {
+.ico-instagram:before {
     content: "\e64e";
 }
 .ico-volume-mute:before {
@@ -1007,7 +1007,7 @@ a .blr:hover {
 .ico-icloud:before {
     content: "\e6ce";
 }
-.ico-instagram:before {
+.ico-instagram-old:before {
     content: "\e6cf";
 }
 .ico-coderwall:before {
@@ -1649,7 +1649,7 @@ a .blr:hover {
 .ico-facebook2:before {
     content: "\e7a4";
 }
-.ico-pinterest2:before {
+.ico-gmail:before {
     content: "\e7a5";
 }
 .ico-codepen:before {
@@ -1766,7 +1766,7 @@ a .blr:hover {
 .ico-hangouts:before {
     content: "\e7cb";
 }
-.ico-evernote2:before {
+.ico-adobe:before {
     content: "\e7cc";
 }
 .ico-pocket:before {
@@ -1781,7 +1781,7 @@ a .blr:hover {
 .ico-soundcloud:before {
     content: "\e7d0";
 }
-.ico-flickr2:before {
+.ico-colours:before {
     content: "\e7d1";
 }
 .ico-linux:before {
@@ -1919,7 +1919,7 @@ a .blr:hover {
 .ico-mixcloud:before {
     content: "\e7fe";
 }
-.ico-digg2:before {
+.ico-drupal8:before {
     content: "\e7ff";
 }
 .ico-modx:before {
@@ -1931,7 +1931,7 @@ a .blr:hover {
 .ico-qwant:before {
     content: "\e802";
 }
-.ico-share-alt:before {
+.ico-share:before {
     content: "\e803";
 }
 .ico-share2:before {
