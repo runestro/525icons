@@ -1,4 +1,4 @@
-/*! 525icons.css v2.4.0 by @runestro*/
+/*! 525icons.css v2.5.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -17,10 +17,9 @@
     }
 }
 
-i {
+.ux {
 	display: inline-block;
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: '525icons' !important;
+    font-family: '525icons';
 	font-style: normal;
     font-weight: normal;
     font-variant: normal;    
@@ -33,9 +32,7 @@ i {
 	transform: translate(0, 0);
 	speak: none;
 }
-.ux {
-	display: inline-block;
-	}
+
 /* makes the font 33% larger relative to the icon container */
 .ux-lg {
 	font-size: 1.33333333em;
@@ -530,7 +527,7 @@ a .blr:hover {
 .ico-zurb:before {
     content: "\e62f";
 }
-.ico-w3:before {
+.ico-issuu:before {
     content: "\e630";
 }
 .ico-foursquare:before {
@@ -1007,7 +1004,7 @@ a .blr:hover {
 .ico-icloud:before {
     content: "\e6ce";
 }
-.ico-instagram-old:before {
+.ico-phone-vol:before {
     content: "\e6cf";
 }
 .ico-coderwall:before {
@@ -1640,7 +1637,7 @@ a .blr:hover {
 .ico-reddit:before {
     content: "\e7a1";
 }
-.ico-twitter2:before {
+.ico-pagelines:before {
     content: "\e7a2";
 }
 .ico-weibo:before {

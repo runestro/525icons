@@ -1,4 +1,4 @@
-#[525icons v2.4.0](http://525icons.com)
+#[525icons v2.5.0](http://525icons.com)
 ###A web icon font with style.
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
@@ -9,19 +9,13 @@ vectorized from png format or copied from open source svg files found on the net
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
-
 ##Instructions (How-to)
 <strong>NEW! The 525icons css and font files are now available at 
 jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
 You no longer need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/2.4.0/525icons.min.css"&gt;</code>
-
-If you are familiar with the use of the Font Awesome web font, the 525icons web font css code has some differences.
-
-The icons are placed by adding the 'ico-' class prefix to the icons name (Font Awesome uses the 'fa-' prefix).
-Transitions, sizes and effects use the 'ux-' prefix (While the Font Awesome uses the 'fa-' prefix all over). 
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/2.5.0/525icons.min.css"&gt;</code>
 
 If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:
@@ -35,21 +29,27 @@ You will need the files:
 <li>fonts/525icons.woff2</li>
 </ul>
 
-You do not need the file 525icons.otf, unless you want to install it on your OS.
+
 The css file must be in the same directory as the fonts. If not, you have to make changes in the code.
 
 In the <code>&lt;head&gt;</code> of your html, reference the location to your 525icons.css and fonts. 
 
 <code>&lt;link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css"&gt;</code>
 
-<strong>How to place the icons in your html-file:</strong><br>
-Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code> 
-You can place the icons using the CSS Prefix 'ico-' and the icon's name, like this:
-<code>&lt;i class="ico-yin-yang"&gt;&lt;/i&gt;</code> 
+You do not need the file 525icons.otf, unless you want to install it on your OS.
 
-And you may add additional classes, like this example:
+<strong>How to place the icons in your html-file:</strong>
+If you are familiar with the use of the Font Awesome web font, the 525icons css code has some differences.
+Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code>. 
+The icons are placed by adding the CSS prefix <code>'ux'</code> plus the <code>'ico-'</code> class prefix in front of the icons name,
+like in this example:
 
-<code>&lt;i class="ico-yin-yang ux-lg" style="color: #000;"&gt;&lt;/i&gt;</code>
+<code>&lt;i class="ux ico-yin-yang"&gt;&lt;/i&gt;</code>
+
+And you may add additional classes, like here:
+
+<code>&lt;i class="ux ico-yin-yang ux-2x black bg-white img-circle"&gt;&lt;/i&gt;</code>
+
 
 You may further investigate all the different css-codes in use, inside the file: <a href="demo.html"><u>demo.html</u>
 </a> and  <a href="fonts/525icons.css"><u>525icons.css</u></a>.
