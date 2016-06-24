@@ -407,7 +407,7 @@ p.quote code{
 	vertical-align: top; 
 }
 
-.bg-demo {
+.bg-demo, .bg-demo2 {
 	height: 36px;
 	width: 36px;
 	font-size: 24px;
@@ -415,7 +415,7 @@ p.quote code{
 	margin-top: 0;
 	vertical-align: top;
 }
-a .bg-demo {
+a .bg-demo, a .bg-demo2 {
 	background-color: rgba(51,122,183, .7);
 	color: rgba(255,255,255, .95);
 	-webkit-transition: all 0.3s ease; 
@@ -429,6 +429,15 @@ a .bg-demo:hover {
 	color: rgba(255,255,255, 1);
 	transform: translateY(-3px);
 }
+a .bg-demo2:hover {
+	background-color: #FF6550;
+	color: rgba(255,255,255, 1);
+	border-radius: 50%;
+}
+/* .addthis_button_compact:hover .ico-plus:before, a .bg-demo2:hover{	
+	content: "\e6eb";
+	text-decoration: none;
+	} */
 
 figure
  {
@@ -678,12 +687,11 @@ transition: all 0.31s ease;
 
 .item:first-child i
 {
-    text-shadow: 0 0 0 #ccc;
+    /* text-shadow: 0 0 0 #ccc; */
 }
 
 .item i {
-	text-shadow: 4px 4px 0 rgba(0, 0, 0, .21);
-
+	/* text-shadow: 4px 4px 0 rgba(0, 0, 0, .21); */
 }
 
 .glyph {

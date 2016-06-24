@@ -1,4 +1,4 @@
-/*! 525icons.css v2.5.0 by @runestro*/
+/*! 525icons.css v2.6.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -19,11 +19,7 @@
 
 .ux {
 	display: inline-block;
-    font-family: '525icons';
-	font-style: normal;
-    font-weight: normal;
-    font-variant: normal;    
-    line-height: 1;
+	font: normal normal normal 16px/1 '525icons';	  
 	font-size: inherit;
 	text-rendering: auto;
 	-webkit-font-smoothing: antialiased;
@@ -1724,7 +1720,7 @@ a .blr:hover {
 .ico-image-portrait:before {
     content: "\e7be";
 }
-.ico-square-phone:before {
+.ico-w3schools:before {
     content: "\e7bf";
 }
 .ico-msn:before {
