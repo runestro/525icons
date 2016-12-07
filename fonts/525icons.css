@@ -1,4 +1,4 @@
-/*! 525icons.css v3.0 by @runestro*/
+/*! 525icons.css v3.1.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -538,7 +538,7 @@ a .blr:hover {
 .ico-squarespace:before {
   content: "\e634";
 }
-.ico-adobe-air:before {
+.ico-grav:before {
   content: "\e635";
 }
 .ico-flashplayer:before {
@@ -871,7 +871,7 @@ a .blr:hover {
 .ico-snapchat:before {
   content: "\e6a3";
 }
-.ico-vine:before {
+.ico-quotes2:before {
   content: "\e6a4";
 }
 .ico-qross:before {
@@ -1876,7 +1876,7 @@ a .blr:hover {
 .ico-address-book:before {
   content: "\e7f2";
 }
-.ico-shut-down:before {
+.ico-vcard-o:before {
   content: "\e7f3";
 }
 .ico-medkit:before {
@@ -1906,7 +1906,7 @@ a .blr:hover {
 .ico-medium:before {
   content: "\e7fc";
 }
-.ico-xing:before {
+.ico-paypal:before {
   content: "\e7fd";
 }
 .ico-mixcloud:before {
