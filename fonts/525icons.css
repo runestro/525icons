@@ -16,7 +16,6 @@
         src: url('525icons.svg#525icons') format('svg');
     }
 }
-
 .ux {
 	display: inline-block;
 	font: normal normal normal 16px/1 '525icons';	  
@@ -28,43 +27,32 @@
 	transform: translate(0, 0);
 	speak: none;
 }
-
 /* makes the font 33% larger relative to the icon container */
 .ux-lg {
 	font-size: 1.33333333em;
-	line-height: 0.75em;
-	vertical-align: -15%;
-
 	}
-.ux-ln
-{	
+.ux-v-align, .ux-ln, .ux-lg {
 	line-height: 0.75em;
 	vertical-align: -15%;
 }
-.ux-v-align {
-	line-height: 0.75em;
-	vertical-align: -15%;
+.ux-fw {
+	width: 1.28571429em;
+	text-align: center;
 }
 .ux-1-5x {
-	/* font-size: 1.5em; */
 	font-size: 24px;
 	vertical-align: -10%;
 }
 .ux-2x {
-	/* font-size: 2em; */
 	font-size: 32px;
 }
-
 .ux-3x {
-	/* font-size: 3em; */
 	font-size: 48px;
 }
 .ux-4x {
-	/* font-size: 4em; */
 	font-size: 64px;
 }
 .ux-5x {
-	/* font-size: 5em; */
 	font-size: 80px;
 }
 .ux-6x {
@@ -73,11 +61,6 @@
 .ux-7x {
 	font-size: 112px;
 }
-.ux-fw {
-	width: 1.28571429em;
-	text-align: center;
-}
-
 .ux-ul {
 	padding-left: 0;
 	margin-left: 2.14285714em;
@@ -117,7 +100,6 @@
   -webkit-animation: ux-spin 2s infinite linear;
   animation: ux-spin 2s infinite linear;
 }
-
 .ux-pulse {
   -webkit-animation: ux-spin 1s infinite steps(8);
   animation: ux-spin 1s infinite steps(8);
@@ -142,9 +124,7 @@
     transform: rotate(359deg);
   }
 }
-
 .ux-rotate-45 {
-
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
@@ -156,7 +136,6 @@
 	transform: rotate(90deg);
 }
 .ux-rotate-135 {
-
 	-webkit-transform: rotate(135deg);
 	-ms-transform: rotate(135deg);
 	transform: rotate(135deg);
@@ -168,7 +147,6 @@
 	transform: rotate(180deg);
 }
 .ux-rotate-225 {
-
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg);
@@ -180,12 +158,10 @@
 	transform: rotate(270deg);
 }
 .ux-rotate-315 {
-
 	-webkit-transform: rotate(315deg);
 	-ms-transform: rotate(315deg);
 	transform: rotate(315deg);
 }
-
 .ux-flip-horizontal {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
 	-webkit-transform: scale(-1, 1);
@@ -228,20 +204,16 @@
 .ux-stack-1x {
 	line-height: inherit;
 }
-
 .ux-stack-1-7x {
 	font-size: 1.7em;
 	line-height: inherit;
 }
-
 .ux-stack-2x {
 	font-size: 2em;
 }
-
 .ux-inverse {
 	color: #ffffff;
 }
-
  a .inv:hover {	
 	filter: invert(100%);
 	-webkit-filter: invert(100%);
@@ -265,11 +237,9 @@ a .blr:hover {
 	font-size: 120%;
 	font-weight: 120%;
 }
-
 .white-shadow {
 	text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.85);
 }
-
 .shadow1 {
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.75);
 }
@@ -315,8 +285,7 @@ a .blr:hover {
 	-2px -2px 0 rgba(255,255,255,.5),
     2px -2px 0 rgba(255,255,255,.5),
     -2px 2px 0 rgba(255,255,255,.5),
-    2px 2px 0 rgba(255,255,255,.5); 
-	
+    2px 2px 0 rgba(255,255,255,.5); 	
 }
 .stroke-shadow1
 {
@@ -371,11 +340,9 @@ a .blr:hover {
 .radius36  {
 	border-radius: 36px;
 }
-
 .ux-circle  {
 	border-radius: 50%;
 }
-
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
