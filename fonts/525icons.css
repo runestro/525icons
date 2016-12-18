@@ -1,4 +1,4 @@
-/*! 525icons.css v3.1.0 by @runestro*/
+/*! 525icons.css v3.2.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -27,11 +27,11 @@
 	transform: translate(0, 0);
 	speak: none;
 }
-/* makes the font 33% larger relative to the icon container */
-.ux-lg {
+
+.ux-lg, .lg {
 	font-size: 1.33333333em;
 	}
-.ux-v-align, .ux-ln, .ux-lg {
+.ux-v-align, .ux-ln, .ux-lg, .lg {
 	line-height: 0.75em;
 	vertical-align: -15%;
 }
@@ -39,7 +39,7 @@
 	width: 1.28571429em;
 	text-align: center;
 }
-.ux-1-5x {
+.ux-1-5x, .ux-xl, .xl {
 	font-size: 24px;
 	vertical-align: -10%;
 }
@@ -60,6 +60,15 @@
 }
 .ux-7x {
 	font-size: 112px;
+}
+.ux-8x {
+	font-size: 128px;
+}
+.ux-9x  {
+	font-size: 144px;
+}
+.ux-10x {
+	font-size: 160px;
 }
 .ux-ul {
 	padding-left: 0;
@@ -124,51 +133,51 @@
     transform: rotate(359deg);
   }
 }
-.ux-rotate-45 {
+.ux-rotate-45, .rotate45 {
 	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
 	transform: rotate(45deg);
 }
-.ux-rotate-90 {
+.ux-rotate-90, .rotate90 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
 	-webkit-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
 	transform: rotate(90deg);
 }
-.ux-rotate-135 {
+.ux-rotate-135, .rotate135 {
 	-webkit-transform: rotate(135deg);
 	-ms-transform: rotate(135deg);
 	transform: rotate(135deg);
 }
-.ux-rotate-180 {
+.ux-rotate-180, .rotate180 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
 	-webkit-transform: rotate(180deg);
 	-ms-transform: rotate(180deg);
 	transform: rotate(180deg);
 }
-.ux-rotate-225 {
+.ux-rotate-225, .rotate225 {
 	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
 	transform: rotate(225deg);
 }
-.ux-rotate-270 {
+.ux-rotate-270, .rotate270 {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 	-webkit-transform: rotate(270deg);
 	-ms-transform: rotate(270deg);
 	transform: rotate(270deg);
 }
-.ux-rotate-315 {
+.ux-rotate-315, .rotate315 {
 	-webkit-transform: rotate(315deg);
 	-ms-transform: rotate(315deg);
 	transform: rotate(315deg);
 }
-.ux-flip-horizontal {
+.ux-flip-horizontal, .flip-h {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
 	-webkit-transform: scale(-1, 1);
 	-ms-transform: scale(-1, 1);
 	transform: scale(-1, 1);
 }
-.ux-flip-vertical {
+.ux-flip-vertical, .flip-v {
 	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
 	-webkit-transform: scale(1, -1);
 	-ms-transform: scale(1, -1);
@@ -182,7 +191,17 @@
 :root .ux-rotate-270,
 :root .ux-rotate-315,
 :root .ux-flip-horizontal,
-:root .ux-flip-vertical {
+:root .ux-flip-vertical,
+:root .rotate45,
+:root .rotate90,
+:root .rotate135,
+:root .rotate180,
+:root .rotate225,
+:root .rotate270,
+:root .rotate315,
+:root .flip-h,
+:root .flip-v 
+ {
   filter: none;
 }
 .ux-stack {
@@ -334,13 +353,21 @@ a .blr:hover {
     -5px 5px 0 rgba(0,0,0,.05),
     5px 5px 0 rgba(0,0,0,.05); 	
 }
+/*border-radius*/
+
+.radius6  {
+	border-radius: 6px;
+}
+.radius8  {
+	border-radius: 8px;
+}
 .radius12  {
 	border-radius: 12px;
 }
 .radius36  {
 	border-radius: 36px;
 }
-.ux-circle  {
+.ux-circle   {
 	border-radius: 50%;
 }
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
@@ -748,7 +775,7 @@ a .blr:hover {
 .ico-quotes1:before {
   content: "\e685";
 }
-.ico-eye:before {
+.ico-exposure:before {
   content: "\e686";
 }
 .ico-after-effects:before {
@@ -1474,7 +1501,7 @@ a .blr:hover {
 .ico-heart:before {
   content: "\e777";
 }
-.ico-heart-o:before {
+.ico-shut-down:before {
   content: "\e778";
 }
 .ico-checkbox-checked:before {
@@ -1726,7 +1753,7 @@ a .blr:hover {
 .ico-hangouts:before {
   content: "\e7cb";
 }
-.ico-wimp:before {
+.ico-tidal:before {
   content: "\e7cc";
 }
 .ico-pocket:before {

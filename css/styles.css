@@ -35,7 +35,7 @@ a.h2link:focus {
   outline-offset: 0;
 }
 code {
-  color: #5e26cf;
+  color: #333399;
   background-color: rgba(249, 242, 244, .65);
   /* #f9f2f4; */
 }
@@ -44,9 +44,11 @@ h1, h2, h3, h4, h5, h6 {
 	/*font-weight: normal;*/
 	}
 a, .a-color, .link-color {
-	color: #6938B1;
+	color: #ff7800;
 }
-
+a:hover, a:active, a:focus, .infobutton i:hover {
+	color: #cc3300;
+}
 .textbox0 {
 	width: 150px;
 /* 	padding: .25em .5em;	 */
@@ -158,20 +160,23 @@ a, .a-color, .link-color {
 	width: 80px;
 	height: 80px; 
 }
+
+header {
+	width: 100%;
+	overflow-x: hidden;
+}
 #main{
-	background-color: rgba(0,0,0, 0.01); 
 	text-align: center;
 	padding-top: 80px;
-	border-bottom: 1px solid rgba(255,0,0,0.9);
+	border-bottom: 1px solid rgba(0,0,0,0.5);
 	}
 #main h1{
 	font-family: 'museo_slab700',"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 108px;
 	font-weight: 700;
 	line-height: normal;
-	margin: 0;
 	letter-spacing: 3px;
-	color: #3e0d6c;
+	color: #ff7800;
 	}
 #main h1 i{
 	font-size: 96px;
@@ -219,13 +224,6 @@ text-shadow: 1px 1px 0px rgba(255,255,255,.05), 2px 2px 9px rgba(0,0,0,.4);
 color: white;
 }
 
-header {
-	width: 100%;
-	 overflow-x: hidden;
-	text-align: center;
-	padding-top: 40px;
-	z-index:1;
-}
 .max-800 {
 	max-width: 800px;
 	min-width: 321px;
@@ -386,7 +384,7 @@ p.quote code{
 	vertical-align: top;
 }
 a .bg-demo, a .bg-demo2 {
-	background-color: rgba(105,56,177, .9);
+	background-color: rgba(255,120,0, .9);
 	color: rgba(255,255,255, .95);
 	-webkit-transition: all 0.3s ease; 
 	-moz-transition: all 0.3s ease; 
@@ -395,12 +393,12 @@ a .bg-demo, a .bg-demo2 {
 	transition: all 0.3s ease; 
 }
 a .bg-demo:hover {
-	background-color: rgba(105,56,177, 1);
+	background-color: rgba(255,120,0, 1);
 	color: rgba(255,255,255, 1);
 	transform: translateY(-3px);
 }
 a .bg-demo2:hover {
-	background-color: #FF6550;
+	background-color: #ff7800;
 	color: rgba(255,255,255, 1);
 	border-radius: 50%;
 }
