@@ -49,32 +49,28 @@ a, .a-color, .link-color {
 a:hover, a:active, a:focus, .infobutton i:hover {
 	color: #cc3300;
 }
-.textbox0 {
-	width: 150px;
-/* 	padding: .25em .5em;	 */
-	height: 80px;
+.glyphs {
+	width: 96px;
+	height: 90px;
 	display: inline-block;
+	text-align: center;
 	float: left;
 }
-.mls {
-	margin-left: .25em;
-	font-size: 14px;
-	line-height: 14px;
+.inames {
+	font-size: 12px;
+	line-height: 2px;
 }
-.textbox0 i.ux-2x {
-	margin-top: 40px;
+.clip {
+	padding: 0;
+	margin: 0;	
+	cursor: pointer;
+	}	
+.clip:hover{
+	color:black;
 }
-.textbox0:hover .mls, .textbox0:focus .mls {
-	color: #FFFFFF;
+.clip:active{
+	color:red;
 }
-.textbox0 i.ux-2x:hover, .textbox0 i.ux-2x:focus {
-	vertical-align: center;
-	font-size: 96px;
-	margin-top: 10px;
-	color: #000;
-	cursor: none;
-}
-
 /* Box Shadow Inset */
 .hvr-box-shadow-inset {
   border: 1px solid rgba(0, 0, 0, 0.1);
