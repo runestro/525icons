@@ -222,7 +222,11 @@ text-shadow: 1px 1px 0px rgba(255,255,255,.05), 2px 2px 9px rgba(0,0,0,.4);
 .close-x {
 color: white;
 }
-
+h5.modal-title{
+	color: #fff;
+	margin-top: 12px;
+	line-height:4px;
+	}	
 .max-800 {
 	max-width: 800px;
 	min-width: 321px;

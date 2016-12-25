@@ -10,24 +10,19 @@
 	font-weight: normal;
 	font-style: normal;
 }
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-    @font-face {
-        font-family: '525icons';
-        src: url('525icons.svg#525icons') format('svg');
-    }
-}
 .ux {
 	display: inline-block;
-	font: normal normal normal 16px/1 '525icons';	  
+/* 	use !important to prevent issues with browser extensions that change fonts */
+	font-family: '525icons' !important;
 	font-size: inherit;
-	text-rendering: auto;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	line-height: 1;
+	speak: none;	
 	text-transform: none;
 	transform: translate(0, 0);
-	speak: none;
 }
-
 .ux-lg, .lg {
 	font-size: 1.33333333em;
 	}
@@ -115,72 +110,71 @@
 }
 @-webkit-keyframes ux-spin {
   0% {
+	-ms-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   100% {
+	-ms-transform: rotate(359deg);
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg);
   }
 }
 @keyframes ux-spin {
   0% {
+	-ms-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   100% {
+	-ms-transform: rotate(359deg);
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg);
   }
 }
 .ux-rotate-45, .rotate45 {
-	-webkit-transform: rotate(45deg);
 	-ms-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
 }
 .ux-rotate-90, .rotate90 {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
-	-webkit-transform: rotate(90deg);
 	-ms-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
 	transform: rotate(90deg);
 }
 .ux-rotate-135, .rotate135 {
-	-webkit-transform: rotate(135deg);
 	-ms-transform: rotate(135deg);
+	-webkit-transform: rotate(135deg);
 	transform: rotate(135deg);
 }
 .ux-rotate-180, .rotate180 {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
-	-webkit-transform: rotate(180deg);
 	-ms-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);
 	transform: rotate(180deg);
 }
 .ux-rotate-225, .rotate225 {
-	-webkit-transform: rotate(225deg);
 	-ms-transform: rotate(225deg);
+	-webkit-transform: rotate(225deg);
 	transform: rotate(225deg);
 }
 .ux-rotate-270, .rotate270 {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
-	-webkit-transform: rotate(270deg);
 	-ms-transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
 	transform: rotate(270deg);
 }
 .ux-rotate-315, .rotate315 {
-	-webkit-transform: rotate(315deg);
 	-ms-transform: rotate(315deg);
+	-webkit-transform: rotate(315deg);
 	transform: rotate(315deg);
 }
 .ux-flip-horizontal, .flip-h {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1);
-	-webkit-transform: scale(-1, 1);
 	-ms-transform: scale(-1, 1);
+	-webkit-transform: scale(-1, 1);
 	transform: scale(-1, 1);
 }
 .ux-flip-vertical, .flip-v {
-	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1);
-	-webkit-transform: scale(1, -1);
 	-ms-transform: scale(1, -1);
+	-webkit-transform: scale(1, -1);
 	transform: scale(1, -1);
 }
 :root .ux-rotate-45,
@@ -254,7 +248,6 @@ a .blr:hover {
 	-o-filter: blur(1px);
 	-ms-filter: blur(1px);
 	font-size: 120%;
-	font-weight: 120%;
 }
 .white-shadow {
 	text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.85);
@@ -276,7 +269,7 @@ a .blr:hover {
 .stroke2, .outline2, .contour2
 {
     text-shadow:
-	 -1px -1px 0 rgba(0,0,0,1),
+	-1px -1px 0 rgba(0,0,0,1),
     1px -1px 0 rgba(0,0,0,1),
     -1px 1px 0 rgba(0,0,0,1),
     1px 1px 0 rgba(0,0,0,1),  
