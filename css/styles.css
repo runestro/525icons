@@ -46,9 +46,27 @@ h1, h2, h3, h4, h5, h6 {
 a, .a-color, .link-color {
 	color: #ff8400;
 }
-a:hover, a:active, a:focus, .infobutton i:hover {
+a:hover, a:active, a:focus, a i:hover, a i:active, a i:focus, .infobutton i:hover, button i:hover {
 	color: #ff5a00;
+	text-decoration: none;
+	/* outline: thin dotted #ccc; */
 }
+a i.invertedlink{
+	color: #fff;
+	background: #ff8400;
+}
+
+a i.invertedlink:hover{
+	color: #fff;
+	background: #ff5a00;
+}
+a i.menutwit{
+	color: #666;
+}
+a i.menutwit:hover {
+	color: #00aced;
+}
+
 .glyphs {
 	width: 96px;
 	height: 90px;
@@ -143,7 +161,7 @@ a:hover, a:active, a:focus, .infobutton i:hover {
 	/* line-height: 10px; */
 }
 .footer-info {
-	line-height: 10px;
+	padding: 12px 0;
 }
 #site-footer p a{
 	text-decoration: none;
@@ -670,6 +688,10 @@ transition: all 0.31s ease;
 	margin-left: 120px;
 }
 
+.indent20{
+	margin-left: 20%;
+}
+
 .rs-toggle {
 	width: 200px;
 	padding-left: 40px;
@@ -766,7 +788,7 @@ border-bottom-right-radius: 6px;
     background:none;
     border:none;
     box-shadow:none;
-	padding: 2px;
+	padding: 0;
 }
 .imgbutton,.imgbutton > a {
     background:none;

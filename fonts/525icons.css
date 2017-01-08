@@ -1,4 +1,4 @@
-/*! 525icons.css v3.2.0 by @runestro*/
+/*! 525icons.css v3.3.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -366,7 +366,7 @@ a .blr:hover {
 /* 525icons uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
-.ico-access:before {
+.ico-docs-com:before {
   content: "\e600";
 }
 .ico-exchange:before {
@@ -903,7 +903,7 @@ a .blr:hover {
 .ico-frowning-face:before {
   content: "\e6b2";
 }
-.ico-copyright:before {
+.ico-unhappy-face:before {
   content: "\e6b3";
 }
 .ico-aries:before {
@@ -1938,6 +1938,51 @@ a .blr:hover {
 .ico-map2:before {
   content: "\e80b";
 }
-.ico-logout:before {
+.ico-eye:before {
   content: "\e80c";
+}
+.ico-heart-o:before {
+  content: "\e80d";
+}
+.ico-venus:before {
+  content: "\e80e";
+}
+.ico-mars:before {
+  content: "\e80f";
+}
+.ico-copyright:before {
+  content: "\e810";
+}
+.ico-mail-send2:before {
+  content: "\e811";
+}
+.ico-colours:before {
+  content: "\e812";
+}
+.ico-marker:before {
+  content: "\e813";
+}
+.ico-traffic-cone:before {
+  content: "\e814";
+}
+.ico-wrench:before {
+  content: "\e815";
+}
+.ico-window-close:before {
+  content: "\e816";
+}
+.ico-square-phone:before {
+  content: "\e817";
+}
+.ico-telegram:before {
+  content: "\e818";
+}
+.ico-kakaotalk:before {
+  content: "\e819";
+}
+.ico-smartwatch:before {
+  content: "\e81a";
+}
+.ico-logout:before {
+  content: "\e81b";
 }
