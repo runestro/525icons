@@ -1,4 +1,4 @@
-/*! 525icons.css v3.3.0 by @runestro*/
+/*! 525icons.css v3.4.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -861,7 +861,7 @@ a .blr:hover {
 .ico-quotes2:before {
   content: "\e6a4";
 }
-.ico-qross:before {
+.ico-podcast:before {
   content: "\e6a5";
 }
 .ico-producthunt:before {
@@ -1209,7 +1209,7 @@ a .blr:hover {
 .ico-keyboard:before {
   content: "\e718";
 }
-.ico-shoppingbag:before {
+.ico-imdb:before {
   content: "\e719";
 }
 .ico-basket:before {
@@ -1407,19 +1407,19 @@ a .blr:hover {
 .ico-fire-extinguisher:before {
   content: "\e75a";
 }
-.ico-int-lighthouse:before {
+.ico-int-ladies:before {
   content: "\e75b";
 }
-.ico-int-ladies:before {
+.ico-int-gents:before {
   content: "\e75c";
 }
-.ico-int-gents:before {
+.ico-html5:before {
   content: "\e75d";
 }
-.ico-html5:before {
+.ico-css3:before {
   content: "\e75e";
 }
-.ico-css3:before {
+.ico-colours:before {
   content: "\e75f";
 }
 .ico-bucket:before {
@@ -1950,13 +1950,13 @@ a .blr:hover {
 .ico-mars:before {
   content: "\e80f";
 }
-.ico-copyright:before {
+.ico-file-ttf:before {
   content: "\e810";
 }
-.ico-mail-send2:before {
+.ico-file-raw:before {
   content: "\e811";
 }
-.ico-colours:before {
+.ico-mail-send2:before {
   content: "\e812";
 }
 .ico-marker:before {
