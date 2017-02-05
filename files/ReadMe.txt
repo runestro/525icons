@@ -1,14 +1,5 @@
-﻿# 525icons v.3.4.0
+﻿# 525icons v.3.6.0
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
-
-Most of the icons are designed, customized and vectorized "by hand" in Adobe Illustrator before the processing into a font.
-A few are directly copied from the different open source icon packs that are available online, 
-among them the "IcoMoon - Free" pack and the "Font Awesome" icon collection. Some are known brand logos, 
-vectorized from png format or copied from open source svg files found on the net. 
-
-The css code is adapted from the Font Awesome css-toolkit by Dave Gandy. More info at: http://fortawesome.github.io/Font-Awesome/
-
-The font is assembled in the icoMoon app: https://icomoon.io/app.
 
 If you download the font, you will get the web files you see here as well, where you may further investigate the css-codes in use. 
 In the fonts folder, you also will find the font in otf format, which you may install for use in PC or Mac applications.
@@ -42,7 +33,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.
 
 You do not need to add the font files on your own server. It's enough to just link the css file with the link below:
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/3.4.0/525icons.min.css">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/3.6.0/525icons.min.css">
 
 ********************************************************************************************************
 

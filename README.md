@@ -1,11 +1,6 @@
-﻿#[525icons v3.5.0](http://525icons.com)
+﻿#[525icons v3.6.0](http://525icons.com)
 ###The web icon font with style.
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
-
-Most of the icons are designed, customized and vectorized "by hand" in Adobe Illustrator before the processing into a font.
-A few are directly copied from the different open source icon packs that are available online, 
-among them the "IcoMoon - Free" pack and the "Font Awesome" icon collection. Some are known brand logos, 
-vectorized from png format or copied from open source svg files found on the net. 
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
@@ -15,7 +10,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/3.5.0/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/3.6.0/525icons.min.css"&gt;</code>
 
 If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:

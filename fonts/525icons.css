@@ -1,4 +1,4 @@
-/*! 525icons.css v3.5.0 by @runestro*/
+/*! 525icons.css v3.6.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -1985,4 +1985,49 @@ a .blr:hover {
 }
 .ico-logout:before {
   content: "\e81b";
+}
+.ico-walking:before {
+  content: "\e81c";
+}
+.ico-cycling:before {
+  content: "\e81d";
+}
+.ico-running:before {
+  content: "\e81e";
+}
+.ico-swimming:before {
+  content: "\e81f";
+}
+.ico-trekking:before {
+  content: "\e820";
+}
+.ico-family:before {
+  content: "\e821";
+}
+.ico-int-car-rental:before {
+  content: "\e822";
+}
+.ico-int-ship:before {
+  content: "\e823";
+}
+.ico-int-toilets:before {
+  content: "\e824";
+}
+.ico-int-departure:before {
+  content: "\e825";
+}
+.ico-up-left:before {
+  content: "\e826";
+}
+.ico-up-left-arrow:before {
+  content: "\e827";
+}
+.ico-arrow2:before {
+  content: "\e828";
+}
+.ico-departing-flight:before {
+  content: "\e829";
+}
+.ico-arriving-flight:before {
+  content: "\e82a";
 }
