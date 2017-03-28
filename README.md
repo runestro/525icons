@@ -4,7 +4,7 @@
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
-Instructions (How-to)
+<h2>Instructions (How-to)</h2>
 <strong>The 525icons css and font files are available at 
 jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
