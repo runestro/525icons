@@ -5,8 +5,8 @@
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
 ## Instructions (How-to)
-** The 525icons css and font files are available at 
-jsdelivr.com The free super-fast CDN for developers and webmasters. **
+**The 525icons css and font files are available at 
+jsdelivr.com The free super-fast CDN for developers and webmasters.**
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
