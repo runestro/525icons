@@ -33,7 +33,7 @@ In the <code>&lt;head&gt;</code> of your html, reference the location to your 52
 
 You do not need the file 525icons.otf, unless you want to install it on your OS.
 
-<strong>How to place the icons in your html-file:</strong>
+**How to place the icons in your html-file:**
 If you are familiar with the use of the Font Awesome web font, the 525icons css code has some differences.
 Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code>. 
 The icons are placed by adding the CSS prefix <code>'ux'</code> plus the <code>'ico-'</code> class prefix in front of the icons name,
@@ -59,7 +59,7 @@ The .ux-Nx classes are optimized for these sizes, like this:
 <code>.ux-2x {font-size: 32px;}</code>
 
 
-<h2>License</h2>
+## License
 - The 525icons font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
 - CSS files are licensed under the MIT License:
@@ -71,7 +71,7 @@ The use of these trademarks does not indicate endorsement of the trademark holde
 The license does not apply to copyrighted logos and brand icons.
 
 
-<h2>Author</h2>
+## Author
 - Rune Strømsted, Norway
 
 - Email: runestro@gmail.com
