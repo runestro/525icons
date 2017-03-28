@@ -4,7 +4,7 @@ The web icon font with style.
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
-##Instructions (How-to)
+Instructions (How-to)
 <strong>The 525icons css and font files are available at 
 jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
 
