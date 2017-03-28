@@ -1,5 +1,5 @@
-﻿[525icons v3.6.0](http://525icons.com)
-The web icon font with style.
+﻿<h1>[525icons v3.6.0](http://525icons.com)
+The web icon font with style.</h1>
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
@@ -59,7 +59,7 @@ The .ux-Nx classes are optimized for these sizes, like this:
 <code>.ux-2x {font-size: 32px;}</code>
 
 
-##License
+<h2>License</h2>
 - The 525icons font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
 - CSS files are licensed under the MIT License:
@@ -71,7 +71,7 @@ The use of these trademarks does not indicate endorsement of the trademark holde
 The license does not apply to copyrighted logos and brand icons.
 
 
-##Author
+<h2>Author</h2>
 - Rune Strømsted, Norway
 
 - Email: runestro@gmail.com
