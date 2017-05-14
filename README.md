@@ -1,13 +1,9 @@
-<<<<<<< HEAD
+
 ﻿#[525icons v4.0](http://525icons.com)
 ###The web icon font with style.
-=======
-# [525icons v3.6.0](http://525icons.com)
-## The web icon font with style.
->>>>>>> origin/master
+
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
-The font is assembled in the icoMoon app: https://icomoon.io/app.
 
 ## Instructions (How-to)
 **The 525icons css and font files are available at 
