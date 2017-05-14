@@ -61,17 +61,17 @@ a i.invertedlink:hover{
 	background: #ff5a00;
 }
 a i.menutwit{
-	color: #666;
+	color: #1DA1F2;
 }
 a i.menutwit:hover {
-	color: #00aced;
+	color: #14171A;
 }
 
 .glyphs {
 	width: 96px;
 	height: 90px;
 	display: inline-block;
-	text-align: center;
+	/* text-align: center; */
 	line-height: 12px;
 	float: left;
 }

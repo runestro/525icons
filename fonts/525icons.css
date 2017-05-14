@@ -1,4 +1,4 @@
-/*! 525icons.css v3.6.0 by @runestro*/
+/*! 525icons.css v4.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -2030,4 +2030,94 @@ a .blr:hover {
 }
 .ico-arriving-flight:before {
   content: "\e82a";
+}
+.ico-misc-waste:before {
+  content: "\e82b";
+}
+.ico-plastic-waste:before {
+  content: "\e82c";
+}
+.ico-paper-waste:before {
+  content: "\e82d";
+}
+.ico-food-waste:before {
+  content: "\e82e";
+}
+.ico-metal-glass-waste:before {
+  content: "\e82f";
+}
+.ico-stats:before {
+  content: "\e830";
+}
+.ico-el-hazard:before {
+  content: "\e831";
+}
+.ico-umbrella:before {
+  content: "\e832";
+}
+.ico-chat2:before {
+  content: "\e833";
+}
+.ico-blog:before {
+  content: "\e834";
+}
+.ico-app-store:before {
+  content: "\e835";
+}
+.ico-twitch:before {
+  content: "\e836";
+}
+.ico-cssdeck:before {
+  content: "\e837";
+}
+.ico-envato:before {
+  content: "\e838";
+}
+.ico-typo3:before {
+  content: "\e839";
+}
+.ico-jquery-ui:before {
+  content: "\e83a";
+}
+.ico-blocs:before {
+  content: "\e83b";
+}
+.ico-phonegap:before {
+  content: "\e83c";
+}
+.ico-brackets:before {
+  content: "\e83d";
+}
+.ico-code:before {
+  content: "\e83e";
+}
+.ico-sass:before {
+  content: "\e83f";
+}
+.ico-less:before {
+  content: "\e840";
+}
+.ico-php:before {
+  content: "\e841";
+}
+.ico-atom:before {
+  content: "\e842";
+}
+.ico-react:before {
+  content: "\e843";
+}
+.ico-int-lighthouse:before {
+  content: "\e844";
+}
+.ico-int-bicycle:before {
+  content: "\e845";
+}
+.ico-int-heliport:before {
+  content: "\e846";
+}
+.ico-int-tram:before {
+  content: "\e847";
+}
+.ico-int-exit:before {
+  content: "\e848";
 }
