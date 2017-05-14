@@ -1,5 +1,5 @@
 
-﻿#[525icons v4.0](http://525icons.com)
+## [525icons v4.0](http://525icons.com)
 ###The web icon font with style.
 
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
