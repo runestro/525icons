@@ -1,12 +1,17 @@
+<<<<<<< HEAD
 ﻿#[525icons v4.0](http://525icons.com)
 ###The web icon font with style.
+=======
+# [525icons v3.6.0](http://525icons.com)
+## The web icon font with style.
+>>>>>>> origin/master
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 The font is assembled in the icoMoon app: https://icomoon.io/app.
 
-##Instructions (How-to)
-<strong>The 525icons css and font files are available at 
-jsdelivr.com The free super-fast CDN for developers and webmasters.</strong>
+## Instructions (How-to)
+**The 525icons css and font files are available at 
+jsdelivr.com The free super-fast CDN for developers and webmasters.**
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
@@ -33,7 +38,7 @@ In the <code>&lt;head&gt;</code> of your html, reference the location to your 52
 
 You do not need the file 525icons.otf, unless you want to install it on your OS.
 
-<strong>How to place the icons in your html-file:</strong>
+**How to place the icons in your html-file:**
 If you are familiar with the use of the Font Awesome web font, the 525icons css code has some differences.
 Like Font Awesome, 525icons is designed to be used with the inline element: <code>&lt;i&gt;</code>. 
 The icons are placed by adding the CSS prefix <code>'ux'</code> plus the <code>'ico-'</code> class prefix in front of the icons name,
@@ -59,7 +64,7 @@ The .ux-Nx classes are optimized for these sizes, like this:
 <code>.ux-2x {font-size: 32px;}</code>
 
 
-##License
+## License
 - The 525icons font is licensed under the SIL OFL 1.1:
   - http://scripts.sil.org/OFL
 - CSS files are licensed under the MIT License:
@@ -71,7 +76,7 @@ The use of these trademarks does not indicate endorsement of the trademark holde
 The license does not apply to copyrighted logos and brand icons.
 
 
-##Author
+## Author
 - Rune Strømsted, Norway
 
 - Email: runestro@gmail.com
