@@ -11,7 +11,11 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.**
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/525icons/4.0/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@4/fonts/525icons.min.css"&gt;</code>
+
+For now, version 4.0 is not active on JsDelivr, som you have to use v3.6.0 with the following link:
+
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@3/fonts/525icons.min.csss"&gt;</code>
 
 If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:
