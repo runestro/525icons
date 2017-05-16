@@ -2393,11 +2393,35 @@ like in this example:</p>
 <code>&lt;i class="ux ico-yin-yang ux-2x black bg-orange img-circle"&gt;&lt;/i&gt;</code> <i class="ux ico-yin-yang ux-2x black bg-orange img-circle"></i>
 <br>
 <br>
-&nbsp;<i class="ux ico-info-circle a-color"></i> To use the 525icons OTF font in desktop applications, you have to install the font on your system.
+<p><strong>Accessibility</strong></p>
+
+<p>If you use an icon just to add some extra decoration or branding, <br>
+it does not need to be announced to users who are navigating your site aurally. <br>
+
+In that case, you should use the string: aria-hidden="true", like in this example:</p>
+<p><code>&lt;i class="ux ico-asterisk ux-2x" aria-hidden="true"&gt&lt;/i&gt</code></p>
+
+<p><i class="ux ico-asterisk ux-2x" aria-hidden="true"></i></p>
+
+
+<p>If an icon conveys meaning in your content or interface, <br>
+ensure that this meaning is also conveyed to assistive technologies through alternative text, like in the use of the aria-label string, shown here:</p>
+
+
+<p><code>&lt;a href="#top" aria-label="Go to top"&gt;<br>
+&lt;i class="ux ico-angle-double ux-rotate-90 ux-2x black" aria-hidden="true"&gt;&lt;/i&gt;<br>
+&lt;/a&gt;</code></p>
+
+<p><a href="#top" aria-label="Go to top">
+<i class="ux ico-angle-double ux-rotate-90 ux-2x black" aria-hidden="true"></i>
+</a></p>
+<br>
+<p><strong>525icons font as a dingbat font</strong></p>
+<p>&nbsp;<i class="ux ico-info-circle a-color"></i> To use the 525icons OTF font in desktop applications, you have to install the font on your system.
 When installing the font or viewing it, the operating system may not show all the glyphs in the font. In most cases only the basic Latin characters are shown.<br>
 
 Here you can see a screenshot of the font in use in Adobe Illustrator:
-<button type="button" data-toggle="modal" data-target="#imgModal" class="imgbutton"><span aria-hidden="true"><i class="ux ico-image ux-lg a-color"></i></span></button>
+<button type="button" data-toggle="modal" data-target="#imgModal" class="imgbutton"><span aria-hidden="true"><i class="ux ico-image ux-lg a-color"></i></span></button></p>
 
 </p>
 </div>
