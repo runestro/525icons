@@ -13,7 +13,7 @@ You do not need to add the font files on your own server. It's enough to just li
 
 <code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@4/fonts/525icons.min.css"&gt;</code>
 
-For now, version 4.0 is not active on JsDelivr, som you have to use v3.6.0 with the following link:
+For now, version 4.0 is not active on JsDelivr, so you have to use v3.6.0 with the following link:
 
 <code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@3/fonts/525icons.min.csss"&gt;</code>
 
