@@ -76,7 +76,8 @@ a i.menutwit:hover {
 	float: left;
 }
 .inames {
-	font-size: 12px;
+	font-size: 11px;
+	max-width: 90px;
 }
 .clip {
 	padding: 0;
