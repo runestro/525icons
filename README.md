@@ -11,7 +11,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.**
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@v4.1/fonts/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@4.1/fonts/525icons.min.css"&gt;</code>
 
 If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:
