@@ -1,4 +1,4 @@
-﻿# 525icons v4.0
+﻿# 525icons v4.1
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 If you download the font, you will get the web files you see here as well, where you may further investigate the css-codes in use. 

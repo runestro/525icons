@@ -1,4 +1,4 @@
-/*! 525icons.css v4.0 by @runestro*/
+/*! 525icons.css v4.1 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -22,6 +22,7 @@
 	speak: none;	
 	text-transform: none;
 	transform: translate(0, 0);
+	/* aria-hidden:true; */
 }
 .ux-lg, .lg {
 	font-size: 1.33333333em;
@@ -2120,4 +2121,49 @@ a .blr:hover {
 }
 .ico-int-exit:before {
   content: "\e848";
+}
+.ico-opacity:before {
+  content: "\e849";
+}
+.ico-3d:before {
+  content: "\e84a";
+}
+.ico-wpexplorer:before {
+  content: "\e84b";
+}
+.ico-quora:before {
+  content: "\e84c";
+}
+.ico-qross:before {
+  content: "\e84d";
+}
+.ico-ubuntu:before {
+  content: "\e84e";
+}
+.ico-magento:before {
+  content: "\e84f";
+}
+.ico-heroku:before {
+  content: "\e850";
+}
+.ico-klout:before {
+  content: "\e851";
+}
+.ico-sublime-text:before {
+  content: "\e852";
+}
+.ico-scala:before {
+  content: "\e853";
+}
+.ico-node-js:before {
+  content: "\e854";
+}
+.ico-ruby:before {
+  content: "\e855";
+}
+.ico-python:before {
+  content: "\e856";
+}
+.ico-algolia:before {
+  content: "\e857";
 }
