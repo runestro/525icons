@@ -1,4 +1,4 @@
-/*! 525icons.css v4.2 by @runestro*/
+/*! 525icons.css v5.0 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -2166,4 +2166,139 @@ a .blr:hover {
 }
 .ico-algolia:before {
   content: "\e857";
+}
+.ico-horse-riding:before {
+  content: "\e858";
+}
+.ico-golfing:before {
+  content: "\e859";
+}
+.ico-skateboarding:before {
+  content: "\e85a";
+}
+.ico-kayaking:before {
+  content: "\e85b";
+}
+.ico-canoeing:before {
+  content: "\e85c";
+}
+.ico-cross-country:before {
+  content: "\e85d";
+}
+.ico-skating:before {
+  content: "\e85e";
+}
+.ico-ski-racing:before {
+  content: "\e85f";
+}
+.ico-cross-pattee:before {
+  content: "\e860";
+}
+.ico-star-of-david:before {
+  content: "\e861";
+}
+.ico-om:before {
+  content: "\e862";
+}
+.ico-star-and-crescent:before {
+  content: "\e863";
+}
+.ico-dharma-wheel:before {
+  content: "\e864";
+}
+.ico-latin-cross:before {
+  content: "\e865";
+}
+.ico-peace:before {
+  content: "\e866";
+}
+.ico-visually-impaired:before {
+  content: "\e867";
+}
+.ico-int-escalator:before {
+  content: "\e868";
+}
+.ico-int-stairs:before {
+  content: "\e869";
+}
+.ico-taxi:before {
+  content: "\e86a";
+}
+.ico-rock-climbing:before {
+  content: "\e86b";
+}
+.ico-hiking-trail:before {
+  content: "\e86c";
+}
+.ico-fishing:before {
+  content: "\e86d";
+}
+.ico-sailing:before {
+  content: "\e86e";
+}
+.ico-seaplane:before {
+  content: "\e86f";
+}
+.ico-dogs-on-leash:before {
+  content: "\e870";
+}
+.ico-viewpoint:before {
+  content: "\e871";
+}
+.ico-whale-watching:before {
+  content: "\e872";
+}
+.ico-diving:before {
+  content: "\e873";
+}
+.ico-watercraft:before {
+  content: "\e874";
+}
+.ico-shower:before {
+  content: "\e875";
+}
+.ico-campfire:before {
+  content: "\e876";
+}
+.ico-tenting:before {
+  content: "\e877";
+}
+.ico-caravan:before {
+  content: "\e878";
+}
+.ico-motorhome:before {
+  content: "\e879";
+}
+.ico-cabin:before {
+  content: "\e87a";
+}
+.ico-campground:before {
+  content: "\e87b";
+}
+.ico-no-smoking:before {
+  content: "\e87c";
+}
+.ico-no-entry:before {
+  content: "\e87d";
+}
+.ico-road-works:before {
+  content: "\e87e";
+}
+.ico-danger-ahead:before {
+  content: "\e87f";
+}
+.ico-woolmark:before {
+  content: "\e880";
+}
+.ico-weee:before {
+  content: "\e881";
+}
+.ico-c-tick:before {
+  content: "\e882";
+}
+.ico-vs-code:before {
+  content: "\e883";
+}
+.ico-exit:before {
+  content: "\e884";
 }
