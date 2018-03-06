@@ -1,4 +1,4 @@
-/*! 525icons.css v5.0 by @runestro*/
+/*! 525icons.css v5.1 by @runestro*/
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -2301,4 +2301,319 @@ a .blr:hover {
 }
 .ico-exit:before {
   content: "\e884";
+}
+.ico-stratocaster:before {
+  content: "\e885";
+}
+.ico-guitar:before {
+  content: "\e886";
+}
+.ico-mountain-biking:before {
+  content: "\e887";
+}
+.ico-climbing:before {
+  content: "\e888";
+}
+.ico-yoga:before {
+  content: "\e889";
+}
+.ico-brain:before {
+  content: "\e88a";
+}
+.ico-certificate:before {
+  content: "\e88b";
+}
+.ico-medal-one:before {
+  content: "\e88c";
+}
+.ico-doc-edit:before {
+  content: "\e88d";
+}
+.ico-viral-marketing:before {
+  content: "\e88e";
+}
+.ico-performance-up:before {
+  content: "\e88f";
+}
+.ico-seo-monitoring:before {
+  content: "\e890";
+}
+.ico-market-research:before {
+  content: "\e891";
+}
+.ico-sliders:before {
+  content: "\e892";
+}
+.ico-users-group:before {
+  content: "\e893";
+}
+.ico-industry:before {
+  content: "\e894";
+}
+.ico-life-ring:before {
+  content: "\e895";
+}
+.ico-airbnb:before {
+  content: "\e896";
+}
+.ico-strava:before {
+  content: "\e897";
+}
+.ico-uber:before {
+  content: "\e898";
+}
+.ico-bitcoin:before {
+  content: "\e899";
+}
+.ico-themeisle:before {
+  content: "\e89a";
+}
+.ico-expeditedssl:before {
+  content: "\e89b";
+}
+.ico-open-id:before {
+  content: "\e89c";
+}
+.ico-forumbee:before {
+  content: "\e89d";
+}
+.ico-uikit:before {
+  content: "\e89e";
+}
+.ico-codiepie:before {
+  content: "\e89f";
+}
+.ico-tag:before {
+  content: "\e8a0";
+}
+.ico-ticket:before {
+  content: "\e8a1";
+}
+.ico-trademark:before {
+  content: "\e8a2";
+}
+.ico-thumbtack:before {
+  content: "\e8a3";
+}
+.ico-chart-area:before {
+  content: "\e8a4";
+}
+.ico-chart-bar:before {
+  content: "\e8a5";
+}
+.ico-chart-line:before {
+  content: "\e8a6";
+}
+.ico-chart-pie:before {
+  content: "\e8a7";
+}
+.ico-slippery-steps:before {
+  content: "\e8a8";
+}
+.ico-bear:before {
+  content: "\e8a9";
+}
+.ico-int-horse-riding:before {
+  content: "\e8aa";
+}
+.ico-atv:before {
+  content: "\e8ab";
+}
+.ico-offroad:before {
+  content: "\e8ac";
+}
+.ico-hiking:before {
+  content: "\e8ad";
+}
+.ico-archery:before {
+  content: "\e8ae";
+}
+.ico-int-cutlery:before {
+  content: "\e8af";
+}
+.ico-viewing-area:before {
+  content: "\e8b0";
+}
+.ico-trophy:before {
+  content: "\e8b1";
+}
+.ico-window-minimize:before {
+  content: "\e8b2";
+}
+.ico-window-maximize:before {
+  content: "\e8b3";
+}
+.ico-window-restore:before {
+  content: "\e8b4";
+}
+.ico-beer:before {
+  content: "\e8b5";
+}
+.ico-bell:before {
+  content: "\e8b6";
+}
+.ico-bell-slash:before {
+  content: "\e8b7";
+}
+.ico-align-left:before {
+  content: "\e8b8";
+}
+.ico-align-center:before {
+  content: "\e8b9";
+}
+.ico-align-right:before {
+  content: "\e8ba";
+}
+.ico-align-justify:before {
+  content: "\e8bb";
+}
+.ico-list:before {
+  content: "\e8bc";
+}
+.ico-list-ol:before {
+  content: "\e8bd";
+}
+.ico-list-ul:before {
+  content: "\e8be";
+}
+.ico-tasks:before {
+  content: "\e8bf";
+}
+.ico-list-alt:before {
+  content: "\e8c0";
+}
+.ico-creditcard-alt:before {
+  content: "\e8c1";
+}
+.ico-gift:before {
+  content: "\e8c2";
+}
+.ico-birthday-cake:before {
+  content: "\e8c3";
+}
+.ico-balance-scale:before {
+  content: "\e8c4";
+}
+.ico-shinto:before {
+  content: "\e8c5";
+}
+.ico-sikh:before {
+  content: "\e8c6";
+}
+.ico-bahai:before {
+  content: "\e8c7";
+}
+.ico-chess-board:before {
+  content: "\e8c8";
+}
+.ico-chess:before {
+  content: "\e8c9";
+}
+.ico-chess-bishop:before {
+  content: "\e8ca";
+}
+.ico-chess-king:before {
+  content: "\e8cb";
+}
+.ico-chess-knight:before {
+  content: "\e8cc";
+}
+.ico-chess-pawn:before {
+  content: "\e8cd";
+}
+.ico-chess-queen:before {
+  content: "\e8ce";
+}
+.ico-chess-rook:before {
+  content: "\e8cf";
+}
+.ico-golf:before {
+  content: "\e8d0";
+}
+.ico-volleyball:before {
+  content: "\e8d1";
+}
+.ico-basketball:before {
+  content: "\e8d2";
+}
+.ico-baseball:before {
+  content: "\e8d3";
+}
+.ico-bowling:before {
+  content: "\e8d4";
+}
+.ico-football:before {
+  content: "\e8d5";
+}
+.ico-soccer:before {
+  content: "\e8d6";
+}
+.ico-lemon:before {
+  content: "\e8d7";
+}
+.ico-orange:before {
+  content: "\e8d8";
+}
+.ico-font:before {
+  content: "\e8d9";
+}
+.ico-adjust:before {
+  content: "\e8da";
+}
+.ico-outdent:before {
+  content: "\e8db";
+}
+.ico-indent:before {
+  content: "\e8dc";
+}
+.ico-wolf:before {
+  content: "\e8dd";
+}
+.ico-mountain:before {
+  content: "\e8de";
+}
+.ico-park:before {
+  content: "\e8df";
+}
+.ico-forest:before {
+  content: "\e8e0";
+}
+.ico-tent:before {
+  content: "\e8e1";
+}
+.ico-town:before {
+  content: "\e8e2";
+}
+.ico-north:before {
+  content: "\e8e3";
+}
+.ico-north-o:before {
+  content: "\e8e4";
+}
+.ico-north-alt:before {
+  content: "\e8e5";
+}
+.ico-north-badge:before {
+  content: "\e8e6";
+}
+.ico-north-badge-o:before {
+  content: "\e8e7";
+}
+.ico-north-banner:before {
+  content: "\e8e8";
+}
+.ico-keyb-a:before {
+  content: "\e8e9";
+}
+.ico-keyb-up:before {
+  content: "\e8ea";
+}
+.ico-keyb-down:before {
+  content: "\e8eb";
+}
+.ico-keyb-left:before {
+  content: "\e8ec";
+}
+.ico-keyb-right:before {
+  content: "\e8ed";
 }

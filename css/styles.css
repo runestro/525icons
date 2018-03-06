@@ -71,13 +71,15 @@ a i.menutwit:hover {
 	width: 96px;
 	height: 90px;
 	display: inline-block;
-	/* text-align: center; */
+	text-align: center;
 	line-height: 12px;
 	float: left;
 }
+
 .inames {
-	font-size: 11px;
-	max-width: 90px;
+	font-size: 10px;
+	line-height: 8px;
+
 }
 .clip {
 	padding: 0;
@@ -139,14 +141,14 @@ a i.menutwit:hover {
 #page-wrap {
   min-height: 100%;
   /* negative margin-bottom equal to site-footer height */
-  margin-bottom: -230px;
+  margin-bottom: -250px;
 }
 #page-wrap:after {
   content: "";
   display: block;
 }
 #site-footer, #page-wrap:after {
-   height: 230px; 
+   height: 250px; 
 }
 #site-footer {
 	text-align: center;
@@ -183,7 +185,11 @@ header {
 #main{
 	text-align: center;
 	padding-top: 3em;
-	border-bottom: 1px solid rgba(0,0,0,0.5);
+	border-bottom: 1px solid rgba(0,0,0,0.15);
+	width: 96%;
+	margin-left: auto;
+	margin-right: auto;
+	
 	}
 #main h1{
 	font-family: 'museo_slab700',"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -451,7 +457,7 @@ and (max-device-width : 1024px)
 .social_1 {
 	padding-top: 0px;
 }
-.social_1 a { 
+.social_1 a, .social_1 a:link, .social_1 a:visited { 
 width:48px; 
 height:48px; 
 margin-right: 3px;
@@ -463,17 +469,21 @@ display:inline-block;
 -o-transition: all 0.31s ease; 
 transition: all 0.31s ease; 
 }
-.social_1 i { 
+.social_1 a i { 
 padding: 7px 6px 5px;
 font-size:36px; 
 color: #fff;
 vertical-align: top;
 }
-.social_1 a:hover { 
+.social_1 a:focus, .social_1 a:active, .social_1 a:hover { 
 -webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
 -moz-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
 box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
   transform: translateY(-3px);
+  color: #fff;
+}
+.social_1 a i:focus, .social_1 a i:active, .social_1 a i:hover { 
+  color: #fff;
 }
 .socialfollow, .socialcircle {
 	text-align: center;
