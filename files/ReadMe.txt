@@ -1,4 +1,4 @@
-﻿# 525icons v5.1
+﻿# 525icons v5.2
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
 
 If you download the font, you will get the web files you see here as well, where you may further investigate the css-codes in use. 
@@ -25,7 +25,7 @@ The css file must be in the same directory as the fonts. If not, you have the ma
 
 In the <head> of your html, reference the location to your 525icons.css and fonts. 
 
-< link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css">
+<link rel="stylesheet" type='text/css' href="path/to/fonts/525icons.css">
 
 ********************************************************************************************************
 The 525icons css and font files are available at 
@@ -33,7 +33,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.
 
 You do not need to add the font files on your own server. It's enough to just link the css file with the link below:
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@5.1/fonts/525icons.min.css">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@5.2/fonts/525icons.min.css">
 
 ********************************************************************************************************
 

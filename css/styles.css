@@ -43,13 +43,22 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'league gothic', 'HelveticaNeue-Bold', Helvetica, sans-serif;
 	/*font-weight: normal;*/
 	}
+.info {
+	color: #ff8400;
+}
 a, .a-color, .link-color {
 	color: #ff8400;
 }
-a:hover, a:active, a:focus, a i:hover, a i:active, a i:focus, .infobutton i:hover, button i:hover {
+i.a-color:hover{
 	color: #ff5a00;
+}
+a:hover, a:active, a:focus {
+	olor: #ff5a00;
 	text-decoration: none;
-	/* outline: thin dotted #ccc; */
+}
+.infobutton i:hover, button i:hover, .infobutton i:focus, button i:focus, .infobutton i:active, button i:active  {
+	color: #ff5a00; 
+	text-decoration: none;
 }
 a i.invertedlink{
 	color: #fff;
@@ -110,8 +119,16 @@ a i.menutwit:hover {
   /* Hack to improve aliasing on mobile/tablet devices */
 }
 .hvr-box-shadow-inset:hover, .hvr-box-shadow-inset:focus, .hvr-box-shadow-inset:active {
-  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0);
+  box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 0, 0, 0);
   /* Hack to improve aliasing on mobile/tablet devices */
+}
+i.hvr-box-shadow-inset:hover, i.hvr-box-shadow-inset:focus, i.hvr-box-shadow-inset:active {
+  color: rgba(0,0,0, 0.5);
+  background-color: rgba(0,0,0, 0.01);
+}
+i.hvr-box-shadow-inset.red:hover, i.hvr-box-shadow-inset.red:focus, i.hvr-box-shadow-inset.red:active {
+  color: rgba(255,0,0, 0.5);
+  background-color: rgba(0,0,0, 0.01);
 }
 /* Glow */
 .hvr-glow {
@@ -455,12 +472,13 @@ and (max-device-width : 1024px)
 }
 }
 .social_1 {
-	padding-top: 0px;
+padding-top: 0px;
 }
 .social_1 a, .social_1 a:link, .social_1 a:visited { 
 width:48px; 
 height:48px; 
 margin-right: 3px;
+margin-bottom: 3px;
 text-decoration:none; 
 display:inline-block;
 -webkit-transition: all 0.31s ease; 
@@ -468,6 +486,11 @@ display:inline-block;
 -ms-transition: all 0.31s ease; 
 -o-transition: all 0.31s ease; 
 transition: all 0.31s ease; 
+box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+-webkit-backface-visibility: hidden;
+backface-visibility: hidden;
+-webkit-transition-property: box-shadow;
+transition-property: box-shadow;
 }
 .social_1 a i { 
 padding: 7px 6px 5px;
@@ -475,15 +498,17 @@ font-size:36px;
 color: #fff;
 vertical-align: top;
 }
-.social_1 a:focus, .social_1 a:active, .social_1 a:hover { 
--webkit-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
--moz-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
-box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.12);
-  transform: translateY(-3px);
-  color: #fff;
+.social_1 a:focus, .social_1 a:active, .social_1 a:hover {  
+width:49px; 
+height:49px; 
+margin-right: 2px;
+margin-bottom: 2px;
+box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+color: #fff;
 }
 .social_1 a i:focus, .social_1 a i:active, .social_1 a i:hover { 
-  color: #fff;
+font-size:37px; 
+color: #fff;
 }
 .socialfollow, .socialcircle {
 	text-align: center;

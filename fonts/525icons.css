@@ -1,4 +1,6 @@
-/*! 525icons.css v5.1 by @runestro*/
+/*!
+ * 525icons.css v5.2 by @runestro - https://525icons.com
+ */
 @font-face {
     font-family: '525icons';
 	src:url('525icons.eot');
@@ -178,6 +180,11 @@
 	-webkit-transform: scale(1, -1);
 	transform: scale(1, -1);
 }
+.flip-h-v {
+	-ms-transform: rotateX(180deg) rotateY(180deg);
+	-webkit-transform: rotateX(180deg) rotateY(180deg);
+	transform: rotateX(180deg) rotateY(180deg);
+}
 :root .ux-rotate-45,
 :root .ux-rotate-90,
 :root .ux-rotate-135,
@@ -195,10 +202,12 @@
 :root .rotate270,
 :root .rotate315,
 :root .flip-h,
-:root .flip-v 
+:root .flip-v, 
+:root .flip-h-v 
  {
   filter: none;
 }
+
 .ux-stack {
 	position: relative;
 	display: inline-block;
@@ -2616,4 +2625,139 @@ a .blr:hover {
 }
 .ico-keyb-right:before {
   content: "\e8ed";
+}
+.ico-access:before {
+  content: "\e8ee";
+}
+.ico-ms-forms:before {
+  content: "\e8ef";
+}
+.ico-lync:before {
+  content: "\e8f0";
+}
+.ico-class-notebook:before {
+  content: "\e8f1";
+}
+.ico-teams:before {
+  content: "\e8f2";
+}
+.ico-teams-alt:before {
+  content: "\e8f3";
+}
+.ico-visio:before {
+  content: "\e8f4";
+}
+.ico-docker:before {
+  content: "\e8f5";
+}
+.ico-electricity:before {
+  content: "\e8f6";
+}
+.ico-tram-alt:before {
+  content: "\e8f7";
+}
+.ico-cars:before {
+  content: "\e8f8";
+}
+.ico-van:before {
+  content: "\e8f9";
+}
+.ico-charging-station:before {
+  content: "\e8fa";
+}
+.ico-dining-set:before {
+  content: "\e8fb";
+}
+.ico-houses:before {
+  content: "\e8fc";
+}
+.ico-animate:before {
+  content: "\e8fd";
+}
+.ico-character-animator:before {
+  content: "\e8fe";
+}
+.ico-dimension:before {
+  content: "\e8ff";
+}
+.ico-encore:before {
+  content: "\e900";
+}
+.ico-fuse:before {
+  content: "\e901";
+}
+.ico-type-kit:before {
+  content: "\e902";
+}
+.ico-muse:before {
+  content: "\e903";
+}
+.ico-prelude:before {
+  content: "\e904";
+}
+.ico-speed-grade:before {
+  content: "\e905";
+}
+.ico-media-encoder:before {
+  content: "\e906";
+}
+.ico-rotate-c:before {
+  content: "\e907";
+}
+.ico-rotate-cc:before {
+  content: "\e908";
+}
+.ico-comment-quotes:before {
+  content: "\e909";
+}
+.ico-family-group:before {
+  content: "\e90a";
+}
+.ico-paintbrush-alt:before {
+  content: "\e90b";
+}
+.ico-file-aif:before {
+  content: "\e90c";
+}
+.ico-file-csv:before {
+  content: "\e90d";
+}
+.ico-file-dmg:before {
+  content: "\e90e";
+}
+.ico-file-eot:before {
+  content: "\e90f";
+}
+.ico-file-ico:before {
+  content: "\e910";
+}
+.ico-file-indd:before {
+  content: "\e911";
+}
+.ico-file-iso:before {
+  content: "\e912";
+}
+.ico-file-less:before {
+  content: "\e913";
+}
+.ico-file-mid:before {
+  content: "\e914";
+}
+.ico-file-mpg:before {
+  content: "\e915";
+}
+.ico-file-pptx:before {
+  content: "\e916";
+}
+.ico-file-rtf:before {
+  content: "\e917";
+}
+.ico-file-sitx:before {
+  content: "\e918";
+}
+.ico-file-woff:before {
+  content: "\e919";
+}
+.ico-file-xlsx:before {
+  content: "\e91a";
 }
