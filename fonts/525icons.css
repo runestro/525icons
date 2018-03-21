@@ -1,5 +1,5 @@
 /*!
- * 525icons.css v5.2 by @runestro - https://525icons.com
+ * 525icons.css v5.3 by @runestro - https://525icons.com
  */
 @font-face {
     font-family: '525icons';
@@ -2698,7 +2698,7 @@ a .blr:hover {
 .ico-speed-grade:before {
   content: "\e905";
 }
-.ico-media-encoder:before {
+.ico-codyhouse:before {
   content: "\e906";
 }
 .ico-rotate-c:before {
