@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600italic,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
 
 
 *, html, body{
@@ -76,49 +77,23 @@ a i.menutwit:hover {
 	color: #14171A;
 }
 #toTop {
-
-    position: fixed; /* Fixed/sticky position */
-	height: 48px;
-	width: 48px;
-    bottom: 20px; /* Place the button at the bottom of the page */
-    right: 20px; /* Place the button 30px from the right */
-    z-index: 99; /* Make sure it does not overlap */
-    border: none; /* Remove borders */
-    outline: none; /* Remove outline */
-    background-color: #ff7800; /* Set a background color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    padding: 5px; /* Some padding */
-	text-align: center;
-	overflow: hidden;
-    border-radius: 50%; /* Rounded corners */
-	display: none; /* Hidden by default */
+    position: fixed; 
+    bottom: 20px; 
+    right: 20px; 
+    z-index: 99; 
+    color: #ff7800; 
+    cursor: pointer; 
+	display: none; 
 	-webkit-transition:all .5s;
     transition:all .5s;
 }
 
 #toTop:hover {
-    background-color: #fff280; 
+    color: #fff280; 
 	-webkit-transition:all .3s;
     transition:all .3s;
 }
 
-@media only screen and(min-width: 1024px) {
-    #toTop {
-        display:block
-    }
-}
-@media only screen and(min-width: 1440px) {
-    #toTop {
-        right:24px;
-        bottom:24px
-    }
-}
-@media screen and(min-width: 1600px) {
-    #toTop {
-        right:48px;
-        bottom:48px
-    }
-}
 .glyphs {
 	width: 96px;
 	height: 90px;

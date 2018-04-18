@@ -1,5 +1,5 @@
 /*!
- * 525icons.css v5.3 by @runestro - https://525icons.com
+ * 525icons.css v5.4 by @runestro - https://525icons.com
  */
 @font-face {
     font-family: '525icons';
@@ -2760,4 +2760,94 @@ a .blr:hover {
 }
 .ico-file-xlsx:before {
   content: "\e91a";
+}
+.ico-trello:before {
+  content: "\e91b";
+}
+.ico-box-empty:before {
+  content: "\e91c";
+}
+.ico-box-selected:before {
+  content: "\e91d";
+}
+.ico-globus:before {
+  content: "\e91e";
+}
+.ico-shield:before {
+  content: "\e91f";
+}
+.ico-easel:before {
+  content: "\e920";
+}
+.ico-drive:before {
+  content: "\e921";
+}
+.ico-drive-o:before {
+  content: "\e922";
+}
+.ico-pens:before {
+  content: "\e923";
+}
+.ico-cursor:before {
+  content: "\e924";
+}
+.ico-hourglass:before {
+  content: "\e925";
+}
+.ico-un:before {
+  content: "\e926";
+}
+.ico-sdg1:before {
+  content: "\e927";
+}
+.ico-sdg2:before {
+  content: "\e928";
+}
+.ico-sdg3:before {
+  content: "\e929";
+}
+.ico-sdg4:before {
+  content: "\e92a";
+}
+.ico-sdg5:before {
+  content: "\e92b";
+}
+.ico-sdg6:before {
+  content: "\e92c";
+}
+.ico-sdg7:before {
+  content: "\e92d";
+}
+.ico-sdg8:before {
+  content: "\e92e";
+}
+.ico-sdg9:before {
+  content: "\e92f";
+}
+.ico-sdg10:before {
+  content: "\e930";
+}
+.ico-sdg11:before {
+  content: "\e931";
+}
+.ico-sdg12:before {
+  content: "\e932";
+}
+.ico-sdg13:before {
+  content: "\e933";
+}
+.ico-sdg14:before {
+  content: "\e934";
+}
+.ico-sdg15:before {
+  content: "\e935";
+}
+.ico-sdg16:before {
+  content: "\e936";
+}
+.ico-sdg17:before {
+  content: "\e937";
+}
+.ico-sdg:before {
+  content: "\e938";
 }
