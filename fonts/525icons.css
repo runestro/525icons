@@ -1,5 +1,5 @@
 /*!
- * 525icons.css v5.4 by @runestro - https://525icons.com
+ * 525icons.css v5.5 by @runestro - https://525icons.com
  */
 @font-face {
     font-family: '525icons';
@@ -2851,3 +2851,94 @@ a .blr:hover {
 .ico-sdg:before {
   content: "\e938";
 }
+.ico-app-store-ios:before {
+  content: "\e939";
+}
+.ico-ios-photo:before {
+  content: "\e93a";
+}
+.ico-plug:before {
+  content: "\e93b";
+}
+.ico-lab:before {
+  content: "\e93c";
+}
+.ico-magic-wand:before {
+  content: "\e93d";
+}
+.ico-simpleview:before {
+  content: "\e93e";
+}
+.ico-renren:before {
+  content: "\e93f";
+}
+.ico-deskpro:before {
+  content: "\e940";
+}
+.ico-whmcs:before {
+  content: "\e941";
+}
+.ico-weixin:before {
+  content: "\e942";
+}
+.ico-mailchimp:before {
+  content: "\e943";
+}
+.ico-kickstarter:before {
+  content: "\e944";
+}
+.ico-wordpress-simple:before {
+  content: "\e945";
+}
+.ico-vuejs:before {
+  content: "\e946";
+}
+.ico-linux-new:before {
+  content: "\e947";
+}
+.ico-game-pad:before {
+  content: "\e948";
+}
+.ico-headset:before {
+  content: "\e949";
+}
+.ico-data-mouse:before {
+  content: "\e94a";
+}
+.ico-stationary-pc:before {
+  content: "\e94b";
+}
+.ico-monitor:before {
+  content: "\e94c";
+}
+.ico-hoover:before {
+  content: "\e94d";
+}
+.ico-coffee-machine:before {
+  content: "\e94e";
+}
+.ico-microwave-oven:before {
+  content: "\e94f";
+}
+.ico-washing-machine:before {
+  content: "\e950";
+}
+.ico-dishwasher:before {
+  content: "\e951";
+}
+.ico-oven:before {
+  content: "\e952";
+}
+.ico-fridge:before {
+  content: "\e953";
+}
+.ico-golf-cart:before {
+  content: "\e954";
+}
+.ico-shipping-express:before {
+  content: "\e955";
+}
+.ico-rest-stop:before {
+  content: "\e956";
+}
+
