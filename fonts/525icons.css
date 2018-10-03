@@ -1,5 +1,5 @@
 /*!
- * 525icons.css v5.5 by @runestro - https://525icons.com
+ * 525icons.css v5.6 by @runestro - https://525icons.com
  */
 @font-face {
     font-family: '525icons';
@@ -2940,5 +2940,140 @@ a .blr:hover {
 }
 .ico-rest-stop:before {
   content: "\e956";
+}
+.ico-campervan:before {
+  content: "\e957";
+}
+.ico-traffic-control:before {
+  content: "\e958";
+}
+.ico-traffic-light:before {
+  content: "\e959";
+}
+.ico-apple-pay-alt:before {
+  content: "\e95a";
+}
+.ico-apple-pay:before {
+  content: "\e95b";
+}
+.ico-amex:before {
+  content: "\e95c";
+}
+.ico-sellfy:before {
+  content: "\e95d";
+}
+.ico-cuttlefish:before {
+  content: "\e95e";
+}
+.ico-uniregistry:before {
+  content: "\e95f";
+}
+.ico-freebsb:before {
+  content: "\e960";
+}
+.ico-qzone:before {
+  content: "\e961";
+}
+.ico-thinkful:before {
+  content: "\e962";
+}
+.ico-digitalocean:before {
+  content: "\e963";
+}
+.ico-taplytics:before {
+  content: "\e964";
+}
+.ico-sentry:before {
+  content: "\e965";
+}
+.ico-diners-club:before {
+  content: "\e966";
+}
+.ico-stripe:before {
+  content: "\e967";
+}
+.ico-reason-ml:before {
+  content: "\e968";
+}
+.ico-npm:before {
+  content: "\e969";
+}
+.ico-monero:before {
+  content: "\e96a";
+}
+.ico-buysellads:before {
+  content: "\e96b";
+}
+.ico-envira:before {
+  content: "\e96c";
+}
+.ico-cloudversify:before {
+  content: "\e96d";
+}
+.ico-fly:before {
+  content: "\e96e";
+}
+.ico-bandcamp:before {
+  content: "\e96f";
+}
+.ico-discourse:before {
+  content: "\e970";
+}
+.ico-gg:before {
+  content: "\e971";
+}
+.ico-dyalog:before {
+  content: "\e972";
+}
+.ico-gofore:before {
+  content: "\e973";
+}
+.ico-stackpath:before {
+  content: "\e974";
+}
+.ico-cc-remix:before {
+  content: "\e975";
+}
+.ico-cc-sampling:before {
+  content: "\e976";
+}
+.ico-cc-share:before {
+  content: "\e977";
+}
+.ico-folder:before {
+  content: "\e978";
+}
+.ico-folder-open:before {
+  content: "\e979";
+}
+.ico-folder-add:before {
+  content: "\e97a";
+}
+.ico-folder-shared:before {
+  content: "\e97b";
+}
+.ico-watch:before {
+  content: "\e97c";
+}
+.ico-speaker:before {
+  content: "\e97d";
+}
+.ico-dialpad:before {
+  content: "\e97e";
+}
+.ico-swap:before {
+  content: "\e97f";
+}
+.ico-import-export:before {
+  content: "\e980";
+}
+.ico-gesture:before {
+  content: "\e981";
+}
+.ico-waves:before {
+  content: "\e982";
+}
+.ico-intersection:before {
+  content: "\e983";
 }
 
