@@ -1,5 +1,5 @@
 
-# [525icons v5.6](http://525icons.com)
+# [525icons v6.0](http://525icons.com)
 ## The stylish pictographic web font!
 
 525icons is a very comprehensive and versatile web icon collection, designed for websites and apps, and it is completely free for commercial use. 
@@ -11,7 +11,7 @@ jsdelivr.com The free super-fast CDN for developers and webmasters.**
 
 You do not need to add the font files on your own server. It's enough to just link the css file like this:
 
-<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@5.6/fonts/525icons.min.css"&gt;</code>
+<code>&lt;link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/runestro/525icons@6.0/fonts/525icons.min.css"&gt;</code>
 
 If you want to place the font files on your own server, make sure the entire fonts directory is copied into your project.
 You will need the files:
@@ -76,8 +76,6 @@ The license does not apply to copyrighted logos and brand icons.
 - Rune Strømsted, Norway
 
 - Email: runestro@gmail.com
-
-- Google+: https://plus.google.com/u/0/101311067909260493911/about
 
 - Twitter: http://twitter.com/@runestro
 

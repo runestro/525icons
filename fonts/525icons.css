@@ -1,5 +1,5 @@
 /*!
- * 525icons.css v5.6 by @runestro - https://525icons.com
+ * 525icons.css v6.0 by @runestro - https://525icons.com
  */
 @font-face {
     font-family: '525icons';
@@ -11,11 +11,12 @@
 		url('525icons.svg?#525icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
+
 }
+
 .ux {
 	display: inline-block;
-/* 	use !important to prevent issues with browser extensions that change fonts */
-	font-family: '525icons' !important;
+	font-family: '525icons';
 	font-size: inherit;
 	font-style: normal;
 	font-weight: normal;
@@ -24,7 +25,9 @@
 	speak: none;	
 	text-transform: none;
 	transform: translate(0, 0);
-	/* aria-hidden:true; */
+	  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 .ux-lg, .lg {
 	font-size: 1.33333333em;
@@ -39,6 +42,10 @@
 }
 .ux-1-5x, .ux-xl, .xl {
 	font-size: 24px;
+	vertical-align: -10%;
+}
+.ux-logo {
+	font-size: 28px;
 	vertical-align: -10%;
 }
 .ux-2x {
@@ -83,12 +90,11 @@
 	top: 0.14285714em;
 	text-align: center;
 }
-.ux-li.ux-lg {
-	left: -1.85714286em;
-}
+
 .ux-border {
 	padding: .2em .25em .15em;
-	border: solid 0.08em rgba(0,0,0, 0.15);
+	border: 0.08em solid #eee;
+	border: 0.08em solid rgba(0,0,0, 0.15);
 	border-radius: .1em;
 }
 .pull-right {
@@ -97,28 +103,32 @@
 .pull-left {
 	float: left;
 }
-.ux.pull-left {
+.pull-left {
 	margin-right: .25em;
 }
-.ux.pull-right {
+.pull-right {
 	margin-left: .25em;
 }
 .ux-spin {
   -webkit-animation: ux-spin 2s infinite linear;
+  -moz-animation: ux-spin 2s infinite linear;
   animation: ux-spin 2s infinite linear;
 }
 .ux-pulse {
   -webkit-animation: ux-spin 1s infinite steps(8);
+  -moz-animation: ux-spin 1s infinite steps(8);
   animation: ux-spin 1s infinite steps(8);
 }
 @-webkit-keyframes ux-spin {
   0% {
 	-ms-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   100% {
 	-ms-transform: rotate(359deg);
+	-moz-transform: rotate(359deg);
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg);
   }
@@ -126,62 +136,74 @@
 @keyframes ux-spin {
   0% {
 	-ms-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
   100% {
 	-ms-transform: rotate(359deg);
+	-moz-transform: rotate(359deg);
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg);
   }
 }
 .ux-rotate-45, .rotate45 {
 	-ms-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	transform: rotate(45deg);
 }
 .ux-rotate-90, .rotate90 {
 	-ms-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
 	-webkit-transform: rotate(90deg);
 	transform: rotate(90deg);
 }
 .ux-rotate-135, .rotate135 {
 	-ms-transform: rotate(135deg);
+	-moz-transform: rotate(135deg);
 	-webkit-transform: rotate(135deg);
 	transform: rotate(135deg);
 }
 .ux-rotate-180, .rotate180 {
 	-ms-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
 	-webkit-transform: rotate(180deg);
 	transform: rotate(180deg);
 }
 .ux-rotate-225, .rotate225 {
 	-ms-transform: rotate(225deg);
+	-moz-transform: rotate(225deg);
 	-webkit-transform: rotate(225deg);
 	transform: rotate(225deg);
 }
 .ux-rotate-270, .rotate270 {
 	-ms-transform: rotate(270deg);
+	-moz-transform: rotate(270deg);
 	-webkit-transform: rotate(270deg);
 	transform: rotate(270deg);
 }
 .ux-rotate-315, .rotate315 {
 	-ms-transform: rotate(315deg);
+	-moz-transform: rotate(315deg);
 	-webkit-transform: rotate(315deg);
 	transform: rotate(315deg);
 }
 .ux-flip-horizontal, .flip-h {
 	-ms-transform: scale(-1, 1);
+	-moz-transform: scale(-1, 1);
 	-webkit-transform: scale(-1, 1);
 	transform: scale(-1, 1);
 }
 .ux-flip-vertical, .flip-v {
 	-ms-transform: scale(1, -1);
+	-moz-transform: scale(1, -1);
 	-webkit-transform: scale(1, -1);
 	transform: scale(1, -1);
 }
 .flip-h-v {
 	-ms-transform: rotateX(180deg) rotateY(180deg);
+	-moz-transform: rotateX(180deg) rotateY(180deg);
 	-webkit-transform: rotateX(180deg) rotateY(180deg);
 	transform: rotateX(180deg) rotateY(180deg);
 }
@@ -266,7 +288,7 @@ a .blr:hover {
 	text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.75);
 }
 .shadow2 {
-	text-shadow: 1px 1px 0px #eee, 2px 2px 9px rgba(0,0,0,.4);
+	text-shadow: 1px 1px 0 #eee, 2px 2px 9px rgba(0,0,0,.4);
 }
 .stroke1, .outline1, .contour1
 {
@@ -3076,4 +3098,138 @@ a .blr:hover {
 .ico-intersection:before {
   content: "\e983";
 }
-
+.ico-edge-chromium:before {
+  content: "\e99d";
+}
+.ico-svg:before {
+  content: "\e9ad";
+}
+.ico-subway_tube:before {
+  content: "\e9a1";
+}
+.ico-directions_ferry:before {
+  content: "\e9a5";
+}
+.ico-anchor:before {
+  content: "\e989";
+}
+.ico-theater_comedy:before {
+  content: "\e9af";
+}
+.ico-local_florist:before {
+  content: "\e9aa";
+}
+.ico-floppy_disk:before {
+  content: "\e9a9";
+}
+.ico-print_disabled:before {
+  content: "\e9b0";
+}
+.ico-inkscape:before {
+  content: "\e99f";
+}
+.ico-gimp:before {
+  content: "\e9a0";
+}
+.ico-gnome:before {
+  content: "\e98d";
+}
+.ico-monster:before {
+  content: "\e98a";
+}
+.ico-diaspora:before {
+  content: "\e98b";
+}
+.ico-csswizardry:before {
+  content: "\e98c";
+}
+.ico-jodel:before {
+  content: "\e9a4";
+}
+.ico-periscope:before {
+  content: "\e9a2";
+}
+.ico-tiktok:before {
+  content: "\e990";
+}
+.ico-tiktok-alt:before {
+  content: "\e993";
+}
+.ico-mix:before {
+  content: "\e9a3";
+}
+.ico-adobeaftereffects:before {
+  content: "\e991";
+}
+.ico-adobeaudition:before {
+  content: "\e992";
+}
+.ico-adobedreamweaver:before {
+  content: "\e994";
+}
+.ico-adobeillustrator:before {
+  content: "\e995";
+}
+.ico-adobeindesign:before {
+  content: "\e996";
+}
+.ico-adobelightroomclassic:before {
+  content: "\e998";
+}
+.ico-adobephotoshop:before {
+  content: "\e999";
+}
+.ico-adobepremiere:before {
+  content: "\e99a";
+}
+.ico-adobetypekit:before {
+  content: "\e99b";
+}
+.ico-adobexd:before {
+  content: "\e99c";
+}
+.ico-coronavirus:before {
+  content: "\e984";
+}
+.ico-virus:before {
+  content: "\e985";
+}
+.ico-facemask:before {
+  content: "\e987";
+}
+.ico-hand-wash:before {
+  content: "\e986";
+}
+.ico-sanitizer:before {
+  content: "\e988";
+}
+.ico-social_distance:before {
+  content: "\e9a7";
+}
+.ico-no-handshake:before {
+  content: "\e99e";
+}
+.ico-json:before {
+  content: "\e98f";
+}
+.ico-device_info:before {
+  content: "\e9ac";
+}
+.ico-device_unknown:before {
+  content: "\e98e";
+}
+.ico-system_update:before {
+  content: "\e9a8";
+}
+.ico-devices_other:before {
+  content: "\e9ab";
+}
+.ico-tap-and-play:before {
+  content: "\e997";
+}
+.ico-cast:before {
+  content: "\e9a6";
+}
+.ico-cast_connected:before {
+  content: "\e9ae";
+}
