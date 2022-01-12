@@ -62,9 +62,9 @@ The .ux-Nx classes are optimized for these sizes, like this:
 
 ## License
 - The 525icons font is licensed under the SIL OFL 1.1:
-  - http://scripts.sil.org/OFL
+  - https://scripts.sil.org/OFL
 - CSS files are licensed under the MIT License:
-  - http://opensource.org/licenses/mit-license.html
+  - https://opensource.org/licenses/mit-license.html
   
 All brand icons are trademarks of their respective owners.
 The use of these trademarks does not indicate endorsement of the trademark holder by 525icons, nor vice versa.
@@ -77,6 +77,6 @@ The license does not apply to copyrighted logos and brand icons.
 
 - Email: runestro@gmail.com
 
-- Twitter: http://twitter.com/@runestro
+- Twitter: https://twitter.com/@runestro
 
 - GitHub: https://github.com/runestro
